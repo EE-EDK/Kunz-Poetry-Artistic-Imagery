@@ -48,7 +48,9 @@ def voice_file(poem: dict) -> Path | None:
     folder = poem["folder"]
     for name in (
         f"{folder}-voice-FINAL.wav",
+        f"{folder}-voice-FINAL.mp3",
         f"{folder}-voice-final.wav",
+        f"{folder}-voice-final.mp3",
         f"{folder}-voice.wav",
         f"{folder}-voice.mp3",
     ):
