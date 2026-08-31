@@ -2,8 +2,8 @@
 
 **Phase: active** (2026-08-30)
 
-Voice and timing were already in tree. Two Epidemic Sound music beds
-just pulled from Downloads.
+Voice and timing were already in tree. Epidemic Sound music beds plus
+ocean and kick cues are in `audio/epidemic/`.
 
 ## In git
 
@@ -18,10 +18,12 @@ Voice span ~0.10–48.7 s. Alignment loss ~0.38.
 
 ## Local only (not in git)
 
-Epidemic Sound music in `audio/epidemic/`:
+Epidemic Sound in `audio/epidemic/`:
 
-- `03-apoclyte-es-point-break-hampus-naeselius.wav` (101 MB)
-- `03-apoclyte-es-procession-of-time-rand-aldo.wav` (45 MB)
+- `03-apoclyte-es-point-break-hampus-naeselius.wav` (101 MB) — music
+- `03-apoclyte-es-procession-of-time-rand-aldo.wav` (45 MB) — music
+- `03-apoclyte-es-ocean-waves-crashing-rocks.wav` (66 MB)
+- `03-apoclyte-es-percussion-soft-kick-ending.wav` (2.6 MB)
 
 ## Next
 
