@@ -16,7 +16,7 @@ are local under `archive/` (not in git).
 | Captions | `timing/03-apoclyte.srt` |
 | Word clocks | `timing/03-apoclyte.words.json` |
 | Alignment | `timing/03-apoclyte.alignment.json` — **only** `03-apoclyte-voice-FINAL.wav` |
-| Picture | `video/03-apoclyte-final.mp4` (v3 1080p) |
+| Picture | `video/03-apoclyte-final.mp4` (1080p, 79.4 s — matches FINAL voice) |
 | Stills | `images/03-apoclyte-01.jpg` … `13.jpg` |
 | Visual map | `VISUAL_MAP.md` |
 | Text | `poem.md` / `transcript.txt` |
