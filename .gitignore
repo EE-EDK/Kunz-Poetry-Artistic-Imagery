@@ -19,6 +19,7 @@ desktop.ini
 # Ephemeral
 **/graphify-out/
 *.crdownload
+**/archive/
 
 # Third-party library masters stay on disk (Epidemic Sound license:
 # use in a mix, do not republish the raw cue as a download).
