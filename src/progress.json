@@ -11,8 +11,8 @@
     "02": {
       "phase": "active",
       "website": false,
-      "kunzhub": false,
-      "note": "Voice, timing, music, epidemic beds ready. Needs stills, mix, video."
+      "kunzhub": "pending-other-machine",
+      "note": "Stills + 02-murdered-mind-final.mp4 in git. Hub publish pending on the other machine."
     },
     "03": {
       "phase": "voice-ready",

@@ -15,8 +15,7 @@ The public showing is
 https://kunz-ai-hub.tailb1d0b7.ts.net/p/shadowshining-selected-poems/ .
 
 Active poem: **02 Murdered Mind** (`src/progress.json`). Poem **01** is in
-handoff — website published; the other machine git-pulls `main` and builds
-`poems/01-a-tree-through-the-forest/` into kunzhub.
+handoff. Poem **02** has stills + `*-final.mp4` ready for hub publish.
 
 ## Doc Precedence
 

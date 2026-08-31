@@ -2,8 +2,9 @@
 
 **Phase: active** (2026-08-30)
 
-Current poem. Voice, timing, music bed, and Epidemic beds are in place.
-Still missing: stills, picture/video, mix.
+Current poem. Voice, timing, music, Epidemic beds, nine stills, eight
+bridges, and a picture cut are in place. Mix stems stay local. Hub
+publish is still pending on the other machine.
 
 ## In git
 
@@ -14,6 +15,8 @@ Still missing: stills, picture/video, mix.
 | Music | `audio/music/02-murdered-mind-music.wav` |
 | Captions | `timing/02-murdered-mind.srt` (from the wav take) |
 | Word clocks | `timing/02-murdered-mind.words.json` |
+| Picture | `video/02-murdered-mind-final.mp4` |
+| Stills | `images/02-murdered-mind-01` … `09` + `bridge-01-02` … `08-09` + preview |
 | Text | `poem.md` / `transcript.txt` |
 
 Current wav span ~0.08–178.6 s. Alignment loss ~0.19.
@@ -34,6 +37,6 @@ Epidemic Sound cues in `audio/epidemic/`:
 
 ## Next
 
-1. Pull/generate stills into `images/`.
-2. Mix voice + music + epidemic → `audio/mix/`.
-3. Picture cut into `video/`, then `python scripts/burn_lyrics.py 02`.
+Other machine: `git lfs pull`, then GROK.md → Hub publish for
+`video/02-murdered-mind-final.mp4`. Cover/poster can use
+`images/02-murdered-mind-preview-all-9.jpg` or still 01.
