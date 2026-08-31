@@ -22,6 +22,9 @@ Voice span ~0.08–176.2 s. Alignment loss ~0.17.
 Epidemic Sound cues in `audio/epidemic/`:
 
 - `02-murdered-mind-es-ambience-drone-room-tone.wav`
+- `02-murdered-mind-es-braam-classic-soft-brass-cs.wav`
+- `02-murdered-mind-es-braam-massive-electronic-horn.wav`
+- `02-murdered-mind-es-braam-straight-tone.wav`
 - `02-murdered-mind-es-doors-dungeon-gate-latch.wav`
 - `02-murdered-mind-es-fire-crackle-embers.wav`
 - `02-murdered-mind-es-human-breath-male.wav`
