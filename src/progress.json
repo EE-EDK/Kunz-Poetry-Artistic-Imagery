@@ -1,0 +1,24 @@
+{
+  "collection": "Shadowshining",
+  "active_poem": 2,
+  "poems": {
+    "01": {
+      "phase": "handoff",
+      "website": true,
+      "kunzhub": "pending-other-machine",
+      "note": "Picture on the website. Other machine git-pulls this repo and builds poems/01 into kunzhub."
+    },
+    "02": {
+      "phase": "active",
+      "website": false,
+      "kunzhub": false,
+      "note": "Voice, timing, music, epidemic beds ready. Needs stills, mix, video."
+    },
+    "03": {
+      "phase": "voice-ready",
+      "website": false,
+      "kunzhub": false,
+      "note": "Voice + timing only."
+    }
+  }
+}

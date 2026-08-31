@@ -14,6 +14,10 @@ This is **twenty-five independent poem-films in one repo**, not one production.
 The public showing is
 https://kunz-ai-hub.tailb1d0b7.ts.net/p/shadowshining-selected-poems/ .
 
+Active poem: **02 Murdered Mind** (`src/progress.json`). Poem **01** is in
+handoff — website published; the other machine git-pulls `main` and builds
+`poems/01-a-tree-through-the-forest/` into kunzhub.
+
 ## Doc Precedence
 
 `GROK.md` (this file) → `AGENTS.md` → `CLAUDE.md`. Do not import Void-is-Crimson
@@ -100,7 +104,7 @@ A finished cut is not live until the poem page on kunzhub plays it.
 Live showing: `/p/shadowshining-selected-poems/`. Poem pages:
 `/p/poems-by-ethank/<slug>.html`.
 
-When a `poems/NN-slug/video/*FINAL*.mp4` is ready:
+When a `poems/NN-slug/video/*-final.mp4` is ready:
 
 1. `git lfs pull` if this clone only has the pointer.
 2. Transcode a web copy into kunzhub

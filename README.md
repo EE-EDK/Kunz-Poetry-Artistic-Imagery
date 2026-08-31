@@ -67,11 +67,14 @@ Do not mix two poems in one folder. If a cue is reused, copy it.
 
 ## Current inventory
 
-Bootstrap after the first dump filed:
+See `src/progress.json` for phase. Active poem is **02**.
 
-- **01 A Tree Through the Forest** — ElevenLabs wav, alignment, current picture cut `FINAL.mp4` (older FULL/v3/v4/lyrics takes removed)
-- **02 Murdered Mind** — voice mp3, alignment, music wav, six Epidemic Sound beds
-- **03 Apoclyte** — voice mp3, alignment
+- **01 A Tree Through the Forest** — **handoff.** Picture on the website.
+  Other machine: `git pull` this repo and build `poems/01-.../` into kunzhub.
+  Canonical cut: `video/01-a-tree-through-the-forest-final.mp4` + SRT.
+- **02 Murdered Mind** — **active.** Voice, timing, music, six Epidemic beds.
+  Needs stills, mix, video.
+- **03 Apoclyte** — voice mp3, alignment only.
 
 The other 22 poems have text only. Pull their artifacts locally and drop them
 in the matching `poems/NN-slug/` folder, or into `inbox/` to file later.
