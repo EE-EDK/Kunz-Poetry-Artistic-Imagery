@@ -1,6 +1,6 @@
 {
   "collection": "Shadowshining",
-  "active_poem": 2,
+  "active_poem": 3,
   "poems": {
     "01": {
       "phase": "handoff",
@@ -15,10 +15,10 @@
       "note": "Stills + 02-murdered-mind-final.mp4 in git. Hub publish pending on the other machine."
     },
     "03": {
-      "phase": "voice-ready",
+      "phase": "active",
       "website": false,
       "kunzhub": false,
-      "note": "Voice + timing only."
+      "note": "Voice, timing, two Epidemic music beds (local). Needs stills, mix, video."
     }
   }
 }

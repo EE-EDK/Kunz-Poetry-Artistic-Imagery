@@ -14,8 +14,8 @@ This is **twenty-five independent poem-films in one repo**, not one production.
 The public showing is
 https://kunz-ai-hub.tailb1d0b7.ts.net/p/shadowshining-selected-poems/ .
 
-Active poem: **02 Murdered Mind** (`src/progress.json`). Poem **01** is in
-handoff. Poem **02** has stills + `*-final.mp4` ready for hub publish.
+Active poem: **03 Apoclyte** (`src/progress.json`). Poems **01** and **02**
+have `*-final.mp4` in git; hub publish is on the other machine.
 
 ## Doc Precedence
 
