@@ -9,12 +9,13 @@ ocean and kick cues are in `audio/epidemic/`.
 
 | Slot | File |
 |------|------|
-| Voice | `audio/elevenlabs/03-apoclyte-voice.mp3` |
-| Captions | `timing/03-apoclyte.srt` |
+| Voice (current) | `audio/elevenlabs/03-apoclyte-voice.wav` |
+| Voice v1 | `audio/elevenlabs/03-apoclyte-voice-v1.mp3` |
+| Captions | `timing/03-apoclyte.srt` (from the wav take) |
 | Word clocks | `timing/03-apoclyte.words.json` |
 | Text | `poem.md` / `transcript.txt` |
 
-Voice span ~0.10–48.7 s. Alignment loss ~0.38.
+Current wav span ~54.8 s. Alignment loss ~0.51 (higher than v1 mp3 ~0.38).
 
 ## Local only (not in git)
 
