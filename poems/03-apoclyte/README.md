@@ -12,14 +12,16 @@ plays `03-apoclyte-final.mp4` from still 01
 | Slot | File |
 |------|------|
 | Voice (current) | `audio/elevenlabs/03-apoclyte-voice.wav` |
+| Voice v2 | `audio/elevenlabs/03-apoclyte-voice-v2.wav` |
 | Voice v1 | `audio/elevenlabs/03-apoclyte-voice-v1.mp3` |
-| Captions | `timing/03-apoclyte.srt` (from the wav take) |
+| Voice female (alt) | `audio/elevenlabs/03-apoclyte-voice-female.mp3` |
+| Captions | `timing/03-apoclyte.srt` (from the current wav) |
 | Word clocks | `timing/03-apoclyte.words.json` |
 | Picture | `video/03-apoclyte-final.mp4` (1080p) |
 | Stills | `images/03-apoclyte-01` … `12` + bridges + previews |
 | Text | `poem.md` / `transcript.txt` |
 
-Current wav span ~54.8 s. Alignment loss ~0.51 (higher than v1 mp3 ~0.38).
+Current wav span ~79.4 s. Alignment loss ~0.38.
 
 ## Local only (not in git)
 
