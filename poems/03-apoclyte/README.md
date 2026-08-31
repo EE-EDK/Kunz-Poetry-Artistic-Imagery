@@ -15,8 +15,9 @@ plays `03-apoclyte-final.mp4` from still 01
 | Voice v2 | `audio/elevenlabs/03-apoclyte-voice-v2.wav` |
 | Voice v1 | `audio/elevenlabs/03-apoclyte-voice-v1.mp3` |
 | Voice female (alt) | `audio/elevenlabs/03-apoclyte-voice-female.mp3` |
-| Captions | `timing/03-apoclyte.srt` (from the current wav) |
+| Captions | `timing/03-apoclyte.srt` |
 | Word clocks | `timing/03-apoclyte.words.json` |
+| Alignment | `timing/03-apoclyte.alignment.json` — **only** the current `03-apoclyte-voice.wav` |
 | Picture | `video/03-apoclyte-final.mp4` (1080p) |
 | Stills | `images/03-apoclyte-01` … `12` + bridges + previews |
 | Text | `poem.md` / `transcript.txt` |
