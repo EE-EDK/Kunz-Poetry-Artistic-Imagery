@@ -11,7 +11,7 @@ the poem is reopened.
 
 | Slot | File |
 |------|------|
-| Picture | `video/01-a-tree-through-the-forest-final.mp4` |
+| Picture | `video/01-a-tree-through-the-forest-final.mp4` (1080p) |
 | Captions | `timing/01-a-tree-through-the-forest.srt` |
 | Word clocks | `timing/01-a-tree-through-the-forest.words.json` |
 | Voice | `audio/elevenlabs/01-a-tree-through-the-forest-voice.wav` |
