@@ -3,7 +3,9 @@
 **Phase: active** (2026-08-30)
 
 Voice, timing, stills, and a 1080p picture cut are in place. Epidemic
-stems stay local. Hub publish pending on the other machine.
+stems stay local. Picture is on the website: `/p/poems-by-ethank/apoclyte.html`
+plays `03-apoclyte-final.mp4` from still 01
+(`images/03-apoclyte-01-darkness-swallows-day.jpg`).
 
 ## In git
 
@@ -30,6 +32,5 @@ Epidemic Sound in `audio/epidemic/`:
 
 ## Next
 
-Other machine: `git lfs pull`, then GROK.md → Hub publish for
-`video/03-apoclyte-final.mp4`. Poster: `images/03-apoclyte-00-preview-all-12.jpg`
-or still 01.
+Hub published 2026-08-31 on kunz-ai-hub. Poster used still 01, not the
+12-up preview. New take = new web filename (`GROK.md` → Hub publish).
