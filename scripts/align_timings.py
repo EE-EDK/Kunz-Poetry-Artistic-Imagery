@@ -45,8 +45,16 @@ def voice_file(poem: dict) -> Path | None:
     audio_dir = paths.POEMS / poem["folder"] / "audio" / "elevenlabs"
     if not audio_dir.exists():
         return None
+    folder = poem["folder"]
+    for name in (f"{folder}-voice.wav", f"{folder}-voice.mp3"):
+        candidate = audio_dir / name
+        if candidate.exists():
+            return candidate
     for ext in (".wav", ".mp3", ".flac", ".m4a"):
-        hits = sorted(audio_dir.glob(f"*{ext}"))
+        hits = sorted(
+            p for p in audio_dir.glob(f"*{ext}")
+            if "-v" not in p.stem.lower() and "-female" not in p.stem.lower()
+        )
         if hits:
             return hits[0]
     return None
@@ -92,7 +100,7 @@ def align_poem(client: ElevenLabs, poem: dict) -> None:
     }
     timing_dir = paths.POEMS / poem["folder"] / "timing"
     timing_dir.mkdir(parents=True, exist_ok=True)
-    stem = audio_path.stem
+    stem = poem["folder"]
     alignment_path = timing_dir / f"{stem}.alignment.json"
     words_path = timing_dir / f"{stem}.words.json"
     srt_path = timing_dir / f"{stem}.srt"
