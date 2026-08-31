@@ -46,6 +46,15 @@ These mean the artifact is already on this machine, usually a fresh browser or
 CLI save into `C:\Users\edk7c\Downloads` (KunzPrime) or `~/Downloads`
 (kunz-ai-hub).
 
+**From kunz-ai-hub, pull KunzPrime Downloads with SCP.** Do not search the
+hub first and stop. Username is `EthanK-admin` — **not** `edk7c` (that is
+only the Windows profile folder). Hub `~/.ssh/id_ed25519` is already
+authorized:
+
+```
+scp "EthanK-admin@100.118.229.4:C:/Users/edk7c/Downloads/<file>" ~/Downloads/
+```
+
 Do this immediately:
 
 1. Search the **Downloads root** (not `Archive-Downloads/`) for files modified

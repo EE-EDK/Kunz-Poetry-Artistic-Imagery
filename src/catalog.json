@@ -15,7 +15,7 @@
         "epidemic": false,
         "mix": false,
         "timing": true,
-        "images": false,
+        "images": true,
         "video": true
       }
     },
