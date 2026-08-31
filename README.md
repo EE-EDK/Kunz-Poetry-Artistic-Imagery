@@ -62,7 +62,7 @@ Do not mix two poems in one folder. If a cue is reused, copy it.
 
 Bootstrap after the first dump filed:
 
-- **01 A Tree Through the Forest** — ElevenLabs wav, alignment, three picture cuts (FULL / v3 / v4), lyric burn on v4
+- **01 A Tree Through the Forest** — ElevenLabs wav, alignment, current picture cut `FINAL.mp4` (older FULL/v3/v4/lyrics takes removed)
 - **02 Murdered Mind** — voice mp3, alignment, music wav, six Epidemic Sound beds
 - **03 Apoclyte** — voice mp3, alignment
 
