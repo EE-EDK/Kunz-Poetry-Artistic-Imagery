@@ -4,6 +4,10 @@ Trimmed Epidemic Sound stems. Each file is **cue length + 5 s** for mix
 tuning. Files live here (`audio/sfx/`); raw ES masters are not kept.
 These stems stay **local** (Epidemic license) — not in git.
 
+Voice clock: `04-seeds-of-memory-from-death-voice-FINAL.wav` is **60.26 s**;
+last word ends **56.54 s**. Windows below were drafted for a ~1:04 read —
+nudge them earlier to fit this take.
+
 | Mix window | File | Length | Idea |
 |------------|------|--------|------|
 | 0:00–0:12 | `04-seeds-of-memory-es-01-cicadas-summer-haze.wav` | 17 s | Late-summer heat haze / cicadas. Fade from 0:08 in the mix. |

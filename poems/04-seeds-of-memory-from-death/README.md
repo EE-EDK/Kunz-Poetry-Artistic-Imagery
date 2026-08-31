@@ -7,16 +7,20 @@
 | Slot | File |
 |------|------|
 | Text | `poem.md` / `transcript.txt` |
-| Voice | `audio/elevenlabs/Seeds of memory-from death.mp3` (not yet canonicalized) |
+| Voice (current) | `audio/elevenlabs/04-seeds-of-memory-from-death-voice-FINAL.wav` |
+| Voice v1 | `audio/elevenlabs/04-seeds-of-memory-from-death-voice-v1.mp3` |
+| Captions | `timing/04-seeds-of-memory-from-death.srt` |
+| Alignment | `timing/04-seeds-of-memory-from-death.alignment.json` — **only** the FINAL wav |
 | SFX map | `audio/sfx/CUE_MAP.md` |
+
+FINAL wav **60.26 s**. Last spoken word “place” **56.54 s**. Alignment loss ~0.46.
 
 ## Local only (not in git)
 
 Ten trimmed Epidemic Sound stems in `audio/sfx/` (cue length + 5 s).
-See `audio/sfx/CUE_MAP.md`.
+See `audio/sfx/CUE_MAP.md`. Mix windows there were sketched for ~1:04; scale them to this 60 s take.
 
 ## Next
 
-1. Canonicalize the ElevenLabs voice name and run `python scripts/align_timings.py 04`.
-2. Mix SFX to the cue map.
-3. Stills and picture.
+1. Mix SFX to the cue map (compress windows to the 60 s voice).
+2. Stills and picture.
