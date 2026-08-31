@@ -114,10 +114,11 @@ When a `poems/NN-slug/video/*-final.mp4` is ready:
 3. Add `<slug>.html` to kunzhub `_build/films.json`.
 4. `python3 apply_film.py` from that `_build/` directory.
 
-The poem's top image (if it has one) becomes a playable poster. Click
-fullscreens the cut. When it ends, the reader returns to the 25-poem
-showing. Escape or leaving fullscreen early stays on the poem. No image
-at the top → leave the page alone until there is one.
+The poem's top image (if it has one) becomes a playable poster. No
+Facebook hero: put `poster` in the films.json spec and apply_film
+inserts the cover after the meta line. Click fullscreens the cut. When
+it ends, the reader returns to the 25-poem showing. Escape or leaving
+fullscreen early stays on the poem.
 
 New take = new web filename, or Caddy's 7-day `*.mp4` cache will keep the
 old cut. Do not rebuild the 91 poem pages from `build_site.py`.

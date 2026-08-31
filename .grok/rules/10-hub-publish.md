@@ -12,8 +12,10 @@ only in this tree):
 3. Run `python3 apply_film.py`
 
 That replaces the poem's top image (if there is one) with a still that
-looks ready to play. Click → fullscreen. Ended → back to the 25-poem
-page. Early exit stays on the poem.
+looks ready to play. No Facebook hero: put `poster` in the films.json
+spec so apply_film inserts the cover after the meta line. Click →
+fullscreen. Ended → back to the 25-poem page. Early exit stays on the
+poem.
 
 Masters stay Git LFS here. Web copies are gitignored on kunzhub. New
 take = new filename (Caddy caches mp4 for a week). Full procedure:
