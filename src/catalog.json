@@ -44,11 +44,11 @@
         "elevenlabs": true,
         "music": false,
         "sfx": false,
-        "epidemic": false,
+        "epidemic": true,
         "mix": false,
         "timing": true,
-        "images": false,
-        "video": false
+        "images": true,
+        "video": true
       }
     },
     {

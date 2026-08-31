@@ -74,8 +74,8 @@ See `src/progress.json` for phase. Active poem is **03**.
   Canonical cut: `video/01-a-tree-through-the-forest-final.mp4` (1080p) + SRT.
 - **02 Murdered Mind** — Voice, timing, stills, `video/02-murdered-mind-final.mp4` (1080p).
   Hub publish pending. Epidemic stems stay local.
-- **03 Apoclyte** — **active.** Voice, timing, two Epidemic music beds (local).
-  Needs stills, mix, video.
+- **03 Apoclyte** — **active.** Voice, timing, stills, `video/03-apoclyte-final.mp4` (1080p).
+  Hub publish pending. Epidemic stems stay local.
 
 The other 22 poems have text only. Pull their artifacts locally and drop them
 in the matching `poems/NN-slug/` folder, or into `inbox/` to file later.
