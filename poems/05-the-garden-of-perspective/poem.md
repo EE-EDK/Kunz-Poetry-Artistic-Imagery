@@ -1,0 +1,28 @@
+# The Garden of Perspective
+
+*Shadowshining · 05*
+
+*read me backwards*
+
+(read me backwards)
+
+In the garden of dreams, hope blossoms bright;
+each dawn breathes secrets of delight.
+Sunlight dances on petals of gold;
+love’s warmth enfolds and never grows old.
+Birds thread sweet melodies through the air —
+nature’s canvas, vibrant and fair.
+
+But shadows pool in the well of night:
+whispers of despair, a chilling sight.
+Darkness consumes, devours the light;
+echoes of sorrow, an endless plight.
+A haunting silence, a hollowing hush —
+in the depths of despair we are left to crush.
+
+Fair and vibrant? The canvas peels.
+Through the air, the melody keels.
+Old grows the warmth; it loosens its hold.
+Gold tarnishes; petals fold.
+Delight’s secrets — dawn’s little lie.
+Bright blooms hope, in the garden, to die.

@@ -1,0 +1,407 @@
+{
+  "collection": "Shadowshining",
+  "subtitle": "Selected poems, 2009\u20132025",
+  "poem_count": 25,
+  "poems": [
+    {
+      "id": 1,
+      "title": "A Tree Through the Forest",
+      "slug": "a-tree-through-the-forest",
+      "folder": "01-a-tree-through-the-forest",
+      "status": {
+        "elevenlabs": true,
+        "music": false,
+        "sfx": false,
+        "epidemic": false,
+        "mix": false,
+        "timing": true,
+        "images": false,
+        "video": true
+      }
+    },
+    {
+      "id": 2,
+      "title": "Murdered Mind",
+      "slug": "murdered-mind",
+      "folder": "02-murdered-mind",
+      "status": {
+        "elevenlabs": true,
+        "music": true,
+        "sfx": false,
+        "epidemic": true,
+        "mix": false,
+        "timing": true,
+        "images": false,
+        "video": false
+      }
+    },
+    {
+      "id": 3,
+      "title": "Apoclyte",
+      "slug": "apoclyte",
+      "folder": "03-apoclyte",
+      "status": {
+        "elevenlabs": true,
+        "music": false,
+        "sfx": false,
+        "epidemic": false,
+        "mix": false,
+        "timing": true,
+        "images": false,
+        "video": false
+      }
+    },
+    {
+      "id": 4,
+      "title": "Seeds of Memory: From Death",
+      "slug": "seeds-of-memory-from-death",
+      "folder": "04-seeds-of-memory-from-death",
+      "status": {
+        "elevenlabs": false,
+        "music": false,
+        "sfx": false,
+        "epidemic": false,
+        "mix": false,
+        "timing": false,
+        "images": false,
+        "video": false
+      }
+    },
+    {
+      "id": 5,
+      "title": "The Garden of Perspective",
+      "slug": "the-garden-of-perspective",
+      "folder": "05-the-garden-of-perspective",
+      "status": {
+        "elevenlabs": false,
+        "music": false,
+        "sfx": false,
+        "epidemic": false,
+        "mix": false,
+        "timing": false,
+        "images": false,
+        "video": false
+      }
+    },
+    {
+      "id": 6,
+      "title": "Ersatz Machinations",
+      "slug": "ersatz-machinations",
+      "folder": "06-ersatz-machinations",
+      "status": {
+        "elevenlabs": false,
+        "music": false,
+        "sfx": false,
+        "epidemic": false,
+        "mix": false,
+        "timing": false,
+        "images": false,
+        "video": false
+      }
+    },
+    {
+      "id": 7,
+      "title": "Stalked in Realms",
+      "slug": "stalked-in-realms",
+      "folder": "07-stalked-in-realms",
+      "status": {
+        "elevenlabs": false,
+        "music": false,
+        "sfx": false,
+        "epidemic": false,
+        "mix": false,
+        "timing": false,
+        "images": false,
+        "video": false
+      }
+    },
+    {
+      "id": 8,
+      "title": "Shadowshine",
+      "slug": "shadowshine",
+      "folder": "08-shadowshine",
+      "status": {
+        "elevenlabs": false,
+        "music": false,
+        "sfx": false,
+        "epidemic": false,
+        "mix": false,
+        "timing": false,
+        "images": false,
+        "video": false
+      }
+    },
+    {
+      "id": 9,
+      "title": "The Chair",
+      "slug": "the-chair",
+      "folder": "09-the-chair",
+      "status": {
+        "elevenlabs": false,
+        "music": false,
+        "sfx": false,
+        "epidemic": false,
+        "mix": false,
+        "timing": false,
+        "images": false,
+        "video": false
+      }
+    },
+    {
+      "id": 10,
+      "title": "Red Shift",
+      "slug": "red-shift",
+      "folder": "10-red-shift",
+      "status": {
+        "elevenlabs": false,
+        "music": false,
+        "sfx": false,
+        "epidemic": false,
+        "mix": false,
+        "timing": false,
+        "images": false,
+        "video": false
+      }
+    },
+    {
+      "id": 11,
+      "title": "The Forest Disease",
+      "slug": "the-forest-disease",
+      "folder": "11-the-forest-disease",
+      "status": {
+        "elevenlabs": false,
+        "music": false,
+        "sfx": false,
+        "epidemic": false,
+        "mix": false,
+        "timing": false,
+        "images": false,
+        "video": false
+      }
+    },
+    {
+      "id": 12,
+      "title": "Circle of Light",
+      "slug": "circle-of-light",
+      "folder": "12-circle-of-light",
+      "status": {
+        "elevenlabs": false,
+        "music": false,
+        "sfx": false,
+        "epidemic": false,
+        "mix": false,
+        "timing": false,
+        "images": false,
+        "video": false
+      }
+    },
+    {
+      "id": 13,
+      "title": "Hollow Honey Rocks",
+      "slug": "hollow-honey-rocks",
+      "folder": "13-hollow-honey-rocks",
+      "status": {
+        "elevenlabs": false,
+        "music": false,
+        "sfx": false,
+        "epidemic": false,
+        "mix": false,
+        "timing": false,
+        "images": false,
+        "video": false
+      }
+    },
+    {
+      "id": 14,
+      "title": "Shadowed Hypocrisy",
+      "slug": "shadowed-hypocrisy",
+      "folder": "14-shadowed-hypocrisy",
+      "status": {
+        "elevenlabs": false,
+        "music": false,
+        "sfx": false,
+        "epidemic": false,
+        "mix": false,
+        "timing": false,
+        "images": false,
+        "video": false
+      }
+    },
+    {
+      "id": 15,
+      "title": "The Essence of Life",
+      "slug": "the-essence-of-life",
+      "folder": "15-the-essence-of-life",
+      "status": {
+        "elevenlabs": false,
+        "music": false,
+        "sfx": false,
+        "epidemic": false,
+        "mix": false,
+        "timing": false,
+        "images": false,
+        "video": false
+      }
+    },
+    {
+      "id": 16,
+      "title": "The Nine",
+      "slug": "the-nine",
+      "folder": "16-the-nine",
+      "status": {
+        "elevenlabs": false,
+        "music": false,
+        "sfx": false,
+        "epidemic": false,
+        "mix": false,
+        "timing": false,
+        "images": false,
+        "video": false
+      }
+    },
+    {
+      "id": 17,
+      "title": "Nihilism",
+      "slug": "nihilism",
+      "folder": "17-nihilism",
+      "status": {
+        "elevenlabs": false,
+        "music": false,
+        "sfx": false,
+        "epidemic": false,
+        "mix": false,
+        "timing": false,
+        "images": false,
+        "video": false
+      }
+    },
+    {
+      "id": 18,
+      "title": "To Kill You in My Thoughts",
+      "slug": "to-kill-you-in-my-thoughts",
+      "folder": "18-to-kill-you-in-my-thoughts",
+      "status": {
+        "elevenlabs": false,
+        "music": false,
+        "sfx": false,
+        "epidemic": false,
+        "mix": false,
+        "timing": false,
+        "images": false,
+        "video": false
+      }
+    },
+    {
+      "id": 19,
+      "title": "And A Million More",
+      "slug": "and-a-million-more",
+      "folder": "19-and-a-million-more",
+      "status": {
+        "elevenlabs": false,
+        "music": false,
+        "sfx": false,
+        "epidemic": false,
+        "mix": false,
+        "timing": false,
+        "images": false,
+        "video": false
+      }
+    },
+    {
+      "id": 20,
+      "title": "Treatise",
+      "slug": "treatise",
+      "folder": "20-treatise",
+      "status": {
+        "elevenlabs": false,
+        "music": false,
+        "sfx": false,
+        "epidemic": false,
+        "mix": false,
+        "timing": false,
+        "images": false,
+        "video": false
+      }
+    },
+    {
+      "id": 21,
+      "title": "The Memory Tree",
+      "slug": "the-memory-tree",
+      "folder": "21-the-memory-tree",
+      "status": {
+        "elevenlabs": false,
+        "music": false,
+        "sfx": false,
+        "epidemic": false,
+        "mix": false,
+        "timing": false,
+        "images": false,
+        "video": false
+      }
+    },
+    {
+      "id": 22,
+      "title": "Perversion of Light",
+      "slug": "perversion-of-light",
+      "folder": "22-perversion-of-light",
+      "status": {
+        "elevenlabs": false,
+        "music": false,
+        "sfx": false,
+        "epidemic": false,
+        "mix": false,
+        "timing": false,
+        "images": false,
+        "video": false
+      }
+    },
+    {
+      "id": 23,
+      "title": "Fly Amanita",
+      "slug": "fly-amanita",
+      "folder": "23-fly-amanita",
+      "status": {
+        "elevenlabs": false,
+        "music": false,
+        "sfx": false,
+        "epidemic": false,
+        "mix": false,
+        "timing": false,
+        "images": false,
+        "video": false
+      }
+    },
+    {
+      "id": 24,
+      "title": "Bridge Wall",
+      "slug": "bridge-wall",
+      "folder": "24-bridge-wall",
+      "status": {
+        "elevenlabs": false,
+        "music": false,
+        "sfx": false,
+        "epidemic": false,
+        "mix": false,
+        "timing": false,
+        "images": false,
+        "video": false
+      }
+    },
+    {
+      "id": 25,
+      "title": "Baseless",
+      "slug": "baseless",
+      "folder": "25-baseless",
+      "status": {
+        "elevenlabs": false,
+        "music": false,
+        "sfx": false,
+        "epidemic": false,
+        "mix": false,
+        "timing": false,
+        "images": false,
+        "video": false
+      }
+    }
+  ]
+}

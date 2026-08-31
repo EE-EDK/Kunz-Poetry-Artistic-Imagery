@@ -1,0 +1,28 @@
+# The Essence of Life
+
+*Shadowshining · 15*
+
+When life seems like a shimmer fading, falling all around —
+not my life or your life, but the life that’s like a sound:
+at once it echoes, then it’s softer, feeling louder all the same,
+reverberating off the Earth; each sound is like a game.
+
+A game that’s far too distant, far too fast, then gone away;
+the rules that seemed so simple, over time, seem to decay.
+What we know we are is wasted by the things we wished we knew;
+then all the sounds see fit to mimic equal sounds of just a few.
+
+So are we pieces in a song of just ideals leading true,
+or do we write our own songs — just a noise, and nothing new?
+For within the clamored outcries of the random ringing noise
+there exists a glint and glimmer, barely seen: a flashing voice.
+
+It burns within the melody and screams above the rest
+in hard, pervading whispers, ever freeing the oppressed.
+No words describe its forming; an idea can’t be named —
+instead it’s sought by every sound, all seeking their own claim.
+
+One can’t bind a blowing breeze by way of strength or intellect;
+to grasp a gleaming concept in one’s hands is to reflect.
+For it is only in reflection that we ever truly see
+that the voice that spoke inside our sounds was, all along, the key.

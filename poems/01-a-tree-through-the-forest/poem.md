@@ -1,0 +1,28 @@
+# A Tree Through the Forest
+
+*Shadowshining · 01*
+
+Man stands inside a sea of abyssal trees,
+Eyes open, yet the mind’s eye cannot fathom,
+A single tree is spurned and falls into silence unseen.
+
+Thought reaches out, still groping through the void,
+The trunk that fell in fury starts to burn in wrong light,
+Man walks inside a sea of abyssal trees.
+
+No clue remains; the hours already lost to the dark,
+Two trees lean close and regard the trampled ferns,
+A cluster is spurned and falls into silence unseen.
+
+A path once cut this way, now swallowed if one squints,
+Now wrath has risen; trunks lean in silent judgment,
+Man runs inside a sea of abyssal trees.
+
+The canopy contracts like a vast eyelid on dissent,
+Too late the warning at the threshold of no return,
+A wood of trees is spurned and falls into the void unseen.
+
+Man, rent, lashes at the wood in malcontent,
+Smoke climbs forever into the outer dark; he will not return.
+Man sprints beside a sea of burning trees—
+The wood lies burned to ash, save one that always stood unseen.

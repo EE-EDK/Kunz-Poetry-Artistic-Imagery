@@ -1,0 +1,18 @@
+# Circle of Light
+
+*Shadowshining · 12*
+
+Blindingly jarring, the sharp summer swelter
+cast across Earth in a slow-crawling haze;
+the shifting of shelter, disowned by the filter,
+moved while the disc crawled phase into phase.
+
+Enveloped in silence, the eerie dark shift
+was felt in the cold combined with its light —
+the edge of the moving sphere cutting a rift,
+splitting horizons: dusk, dawn, and night.
+
+At once it was severed, the night and the day,
+the awe giving way to a ring ethereal —
+ecstatic display in a heavenly gateway:
+Sol and Luna, a cosmic array, immaterial.

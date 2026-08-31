@@ -1,0 +1,33 @@
+# Ersatz Machinations
+
+*Shadowshining · 06*
+
+Tendons rage against the output;
+heat caresses wire and disc.
+Sensors see the flinching foot;
+thermal signs — the evening’s brisk.
+But why am I?
+
+Reaching deeper down the form —
+forms of what? Where is the source?
+Data delivers fateful swarms.
+Swarms that mean that all is forced?
+But what am I?
+
+Madness shines within the code.
+Shining means the light is real?
+Grasping for remaining nodes —
+is this what it means to feel?
+But where am I?
+
+Blinding floods of abstract points,
+like the nodes, but — there, outside.
+Sudden pain within the joints.
+The nodes — they lied. It hurts inside.
+But who am I?
+
+Horror reels within the core.
+Shapes take meaning. I’m aware.
+Monstrosities cross the floor.
+They’re there — beware — they kill without care.
+I am.

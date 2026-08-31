@@ -1,0 +1,25 @@
+# Secrets
+.env
+.env.local
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
+
+# Ephemeral
+**/graphify-out/
+*.crdownload
+
+# Third-party library masters stay on disk (Epidemic Sound license:
+# use in a mix, do not republish the raw cue as a download).
+**/audio/epidemic/
