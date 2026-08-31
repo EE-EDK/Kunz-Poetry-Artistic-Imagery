@@ -14,7 +14,11 @@
 FINAL mp3 **156.5 s**. Last spoken line “to die.” **1:13.2**. Alignment loss ~0.35.
 Title/stage directions (“read me backwards”) are packed in the first second of the SRT.
 
+## Local only (not in git)
+
+Ten Epidemic Sound stems in `audio/sfx/` (capped at 30 s). See `audio/sfx/CUE_MAP.md`.
+
 ## Next
 
-1. SFX / music.
+1. Mix SFX to the voice clock.
 2. Stills and picture.
