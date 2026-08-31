@@ -11,6 +11,7 @@
 | Voice v1 | `audio/elevenlabs/04-seeds-of-memory-from-death-voice-v1.mp3` |
 | Captions | `timing/04-seeds-of-memory-from-death.srt` |
 | Alignment | `timing/04-seeds-of-memory-from-death.alignment.json` — **only** the FINAL wav |
+| Picture | `video/04-seeds-of-memory-from-death-final.mp4` (1080p, 60.26 s — matches FINAL voice) |
 | SFX map | `audio/sfx/CUE_MAP.md` |
 
 FINAL wav **60.26 s**. Last spoken word “place” **56.54 s**. Alignment loss ~0.46.
@@ -23,4 +24,4 @@ See `audio/sfx/CUE_MAP.md`. Mix windows there were sketched for ~1:04; scale the
 ## Next
 
 1. Mix SFX to the cue map (compress windows to the 60 s voice).
-2. Stills and picture.
+2. Stills. Picture v2 1080p is in git.
