@@ -108,7 +108,8 @@ When a `poems/NN-slug/video/*-final.mp4` is ready:
 1. `git lfs pull` if this clone only has the pointer.
 2. Transcode a web copy into kunzhub
    `pages/public/poems-by-ethank/media/films/<slug>.mp4`
-   (`ffmpeg -c:v libx264 -preset medium -crf 23 -c:a aac -b:a 128k -movflags +faststart`).
+   (`ffmpeg -c:v libx264 -preset medium -crf 23 -pix_fmt yuv420p -c:a aac -b:a 128k -movflags +faststart`).
+   Force 4:2:0 — the Apoclyte 79s master is yuv444, which browsers will not play.
    Do not copy the LFS master — it is ~174MB / 12 Mbps; GitHub rejects blobs
    over 100MB and the web copy is gitignored in kunzhub.
 3. Add `<slug>.html` to kunzhub `_build/films.json`.
