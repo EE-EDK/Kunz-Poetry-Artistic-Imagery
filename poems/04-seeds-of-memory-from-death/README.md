@@ -23,5 +23,6 @@ See `audio/sfx/CUE_MAP.md`. Mix windows there were sketched for ~1:04; scale the
 
 ## Next
 
-1. Mix SFX to the cue map (compress windows to the 60 s voice).
-2. Stills. Picture v2 1080p is in git.
+Hub published 2026-08-31 on kunz-ai-hub (`04-seeds-of-memory-from-death-final.mp4`).
+Poster is a lyric-free frame from the cut (open window onto autumn vines).
+New take = new web filename (`GROK.md` → Hub publish). Mix SFX still local.
