@@ -67,7 +67,7 @@ Do not mix two poems in one folder. If a cue is reused, copy it.
 
 ## Current inventory
 
-See `src/progress.json` for phase. Active poem is **05**.
+See `src/progress.json` for phase. Active poem is **06**.
 
 - **01 A Tree Through the Forest** — **handoff.** Picture on the website.
   Other machine: `git pull` this repo and build `poems/01-.../` into kunzhub.
@@ -77,7 +77,8 @@ See `src/progress.json` for phase. Active poem is **05**.
 - **03 Apoclyte** — Picture on the website (`/p/poems-by-ethank/apoclyte.html`).
   Canonical cut: `video/03-apoclyte-final.mp4` (1080p). Epidemic stems stay local.
 - **04 Seeds of Memory: From Death** — FINAL wav + timing. SFX stems local.
-- **05 The Garden of Perspective** — **active.** FINAL mp3 + timing.
+- **05 The Garden of Perspective** — FINAL wav + timing. SFX stems local.
+- **06 Ersatz Machinations** — **active.** FINAL mp3 + timing (voice only).
 
 The remaining poems have text only. Pull their artifacts locally and drop them
 in the matching `poems/NN-slug/` folder, or into `inbox/` to file later.

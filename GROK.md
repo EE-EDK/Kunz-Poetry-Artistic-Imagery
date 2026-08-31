@@ -14,8 +14,8 @@ This is **twenty-five independent poem-films in one repo**, not one production.
 The public showing is
 https://kunz-ai-hub.tailb1d0b7.ts.net/p/shadowshining-selected-poems/ .
 
-Active poem: **05 The Garden of Perspective** (`src/progress.json`).
-Poems **01–03** have `*-final.mp4` in git; hub publish is on the other machine.
+Active poem: **06 Ersatz Machinations** (`src/progress.json`).
+Poems **01–04** have `*-final.mp4` in git; hub publish is on the other machine.
 
 ## Doc Precedence
 

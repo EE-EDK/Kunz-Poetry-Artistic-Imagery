@@ -1,6 +1,6 @@
 {
   "collection": "Shadowshining",
-  "active_poem": 5,
+  "active_poem": 6,
   "poems": {
     "01": {
       "phase": "handoff",
@@ -27,10 +27,16 @@
       "note": "FINAL wav + timing. SFX stems local."
     },
     "05": {
+      "phase": "voice-ready",
+      "website": false,
+      "kunzhub": false,
+      "note": "FINAL wav + timing. SFX stems local."
+    },
+    "06": {
       "phase": "active",
       "website": false,
       "kunzhub": false,
-      "note": "FINAL mp3 + timing. Needs SFX, stills, video."
+      "note": "FINAL mp3 + timing. Voice-only so far."
     }
   }
 }
