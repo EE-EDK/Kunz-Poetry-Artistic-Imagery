@@ -46,7 +46,12 @@ def voice_file(poem: dict) -> Path | None:
     if not audio_dir.exists():
         return None
     folder = poem["folder"]
-    for name in (f"{folder}-voice.wav", f"{folder}-voice.mp3"):
+    for name in (
+        f"{folder}-voice-FINAL.wav",
+        f"{folder}-voice-final.wav",
+        f"{folder}-voice.wav",
+        f"{folder}-voice.mp3",
+    ):
         candidate = audio_dir / name
         if candidate.exists():
             return candidate
