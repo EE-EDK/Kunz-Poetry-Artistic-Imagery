@@ -6,7 +6,13 @@ Twenty-five poem films from the *Shadowshining* collection. Each poem is its
 own unit: ElevenLabs voice, timing, music, SFX, stills, lyric video. Lighter
 than The Void is Crimson — no 540-shot bible, no continuity ledger.
 
-Folder on disk: `Kunz-Poems-Eleven-Labs-MP3` under `ai-video-photo/`.
+Folder on disk: `ACTIVE-PROJECTS/ai-video-photo/Kunz-Poetry-Artistic-Imagery`
+(cloned onto kunz-ai-hub 2026-08-31). On KunzPrime it has also lived under
+the local name `Kunz-Poems-Eleven-Labs-MP3`.
+
+This is **twenty-five independent poem-films in one repo**, not one production.
+The public showing is
+https://kunz-ai-hub.tailb1d0b7.ts.net/p/shadowshining-selected-poems/ .
 
 ## Doc Precedence
 
@@ -37,7 +43,8 @@ in `.env`.
 Trigger phrases (any close variant): **move image**, **pull image**, **retrieve**,
 **file the download**, **grab the still**, **pull the video**, **get that wav**.
 These mean the artifact is already on this machine, usually a fresh browser or
-CLI save into `C:\Users\edk7c\Downloads`.
+CLI save into `C:\Users\edk7c\Downloads` (KunzPrime) or `~/Downloads`
+(kunz-ai-hub).
 
 Do this immediately:
 
@@ -76,6 +83,32 @@ Independent repo — not MASTER. Remote `origin` is
   explicit approval.
 - After filing a Downloads pull, commit the poem-folder files (LFS pointers
   for media, normal blobs for `timing/` JSON and SRT).
+
+## Hub publish (kunz-ai-hub)
+
+A finished cut is not live until the poem page on kunzhub plays it.
+
+Live showing: `/p/shadowshining-selected-poems/`. Poem pages:
+`/p/poems-by-ethank/<slug>.html`.
+
+When a `poems/NN-slug/video/*FINAL*.mp4` is ready:
+
+1. `git lfs pull` if this clone only has the pointer.
+2. Transcode a web copy into kunzhub
+   `pages/public/poems-by-ethank/media/films/<slug>.mp4`
+   (`ffmpeg -c:v libx264 -preset medium -crf 23 -c:a aac -b:a 128k -movflags +faststart`).
+   Do not copy the LFS master — it is ~174MB / 12 Mbps; GitHub rejects blobs
+   over 100MB and the web copy is gitignored in kunzhub.
+3. Add `<slug>.html` to kunzhub `_build/films.json`.
+4. `python3 apply_film.py` from that `_build/` directory.
+
+The poem's top image (if it has one) becomes a playable poster. Click
+fullscreens the cut. When it ends, the reader returns to the 25-poem
+showing. Escape or leaving fullscreen early stays on the poem. No image
+at the top → leave the page alone until there is one.
+
+New take = new web filename, or Caddy's 7-day `*.mp4` cache will keep the
+old cut. Do not rebuild the 91 poem pages from `build_site.py`.
 
 ## Execution Notes
 

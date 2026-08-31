@@ -13,7 +13,12 @@ python scripts/burn_lyrics.py 01 --audio-only
 Requires `ELEVENLABS_API_KEY` in `.env` for alignment. ffmpeg via `paths.FFMPEG`.
 
 Git: independent repo `EE-EDK/Kunz-Poetry-Artistic-Imagery`, branch `main`.
-Media is Git LFS. See `GROK.md` → Git. Never stage `.env`.
+Media is Git LFS (`git lfs pull` on a fresh clone — pointers are 134 bytes).
+See `GROK.md` → Git. Never stage `.env`.
+
+Live showing: https://kunz-ai-hub.tailb1d0b7.ts.net/p/shadowshining-selected-poems/
+This repo is twenty-five independent films. Publishing a finished cut onto
+kunzhub is `GROK.md` → Hub publish, not a step of `burn_lyrics.py`.
 
 ## Directory map
 

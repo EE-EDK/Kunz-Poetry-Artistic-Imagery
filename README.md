@@ -10,6 +10,13 @@ This is the poem-film track under `ai-video-photo/`. It is lighter than
 pieces instead of one 540-shot act. Each poem keeps its own voice, music, SFX,
 stills, timing, and video. Shared tooling lives at the project root.
 
+Public showing (kunzhub):
+https://kunz-ai-hub.tailb1d0b7.ts.net/p/shadowshining-selected-poems/
+
+When a cut is finished, publish it there: the poem's top image (if it has
+one) becomes a playable poster; click fullscreens; ended returns to that
+25-poem page. Procedure: `GROK.md` → Hub publish.
+
 Work locally. ElevenLabs, Epidemic Sound, and Grok image/video runs all land
 as files you drop in `inbox/` or straight into a poem folder. The web consoles
 are backup, not the pipeline.

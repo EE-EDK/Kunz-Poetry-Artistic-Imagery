@@ -12,3 +12,6 @@ Governance for this project. Same-tier precedence: `GROK.md` → `AGENTS.md` →
 - "Move / pull / retrieve / grab" media: search Downloads (last few minutes),
   rename, catalog, file by poem. If unsure, ask — do not guess the poem.
   Procedure: `GROK.md` → Downloads pull.
+- A finished `*FINAL*.mp4` is not live until published onto kunzhub
+  (`GROK.md` → Hub publish). The showing is twenty-five poems, one film
+  each; do not rebuild the 91-page collection to add one cut.

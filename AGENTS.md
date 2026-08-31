@@ -15,15 +15,18 @@ Read only this project. Do not pull The Void is Crimson production data.
 
 ## Project Identity
 
-*Shadowshining* is a 25-poem audiovisual set. Unit of work is one poem folder
+*Shadowshining* is a 25-poem audiovisual set — **twenty-five independent
+films in one repo**, not one production. Unit of work is one poem folder
 under `poems/NN-slug/`. Shared scripts live in `scripts/`. Paths resolve from
-`paths.py`.
+`paths.py`. Public showing:
+https://kunz-ai-hub.tailb1d0b7.ts.net/p/shadowshining-selected-poems/
 
 ## Downloads pull
 
 If Ethan says **move image**, **pull image**, **retrieve**, **file**, **grab**,
 or any close variant: the file is already on this PC, almost always in
-`C:\Users\edk7c\Downloads` (root, last few minutes). Search there, assess,
+`C:\Users\edk7c\Downloads` (KunzPrime) or `~/Downloads` (kunz-ai-hub), root,
+last few minutes. Search there, assess,
 rename to `NN-slug-brief-descriptor.ext`, catalog, and place under
 `poems/NN-slug/<slot>/`. If the poem or slot is not obvious, **say so and
 wait** — list the files found and ask. Do not guess. Full procedure:
