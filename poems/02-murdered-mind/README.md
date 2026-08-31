@@ -9,13 +9,14 @@ Still missing: stills, picture/video, mix.
 
 | Slot | File |
 |------|------|
-| Voice | `audio/elevenlabs/02-murdered-mind-voice.mp3` |
+| Voice (current) | `audio/elevenlabs/02-murdered-mind-voice.wav` |
+| Voice v1 | `audio/elevenlabs/02-murdered-mind-voice-v1.mp3` |
 | Music | `audio/music/02-murdered-mind-music.wav` |
-| Captions | `timing/02-murdered-mind.srt` |
+| Captions | `timing/02-murdered-mind.srt` (from the wav take) |
 | Word clocks | `timing/02-murdered-mind.words.json` |
 | Text | `poem.md` / `transcript.txt` |
 
-Voice span ~0.08–176.2 s. Alignment loss ~0.17.
+Current wav span ~0.08–178.6 s. Alignment loss ~0.19.
 
 ## Local only (not in git)
 
