@@ -1,0 +1,62 @@
+[Script Info]
+Title: Garden Rebuild3
+ScriptType: v4.00+
+PlayResX: 1280
+PlayResY: 720
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Georgia,48,&H00F5F0E6,&H000000FF,&H80000000,&H90000000,-1,0,0,0,100,100,1.0,0,1,2.4,1.4,2,55,55,48,1
+Style: Title,Georgia,54,&H00FFE8C8,&H000000FF,&H80000000,&HA0000000,-1,0,0,0,100,100,1.2,0,1,2.6,1.6,2,45,45,38,1
+Style: Soft,Georgia,44,&H00D8D0C0,&H000000FF,&H80000000,&H90000000,0,1,0,0,100,100,0.8,0,1,2.0,1.2,2,55,55,52,1
+Style: Dark,Georgia,46,&H00C8D0E0,&H000000FF,&H80000000,&H90000000,-1,0,0,0,100,100,1.0,0,1,2.4,1.4,2,55,55,48,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:00.14,0:00:02.98,Default,,0,0,0,,{\fad(180,280)}In the garden of dreams, hope blossoms
+Dialogue: 0,0:00:02.94,0:00:06.92,Default,,0,0,0,,{\fad(180,280)}bright; each dawn breathes secrets of
+Dialogue: 0,0:00:06.87,0:00:08.31,Default,,0,0,0,,{\fad(180,280)}delight.
+Dialogue: 0,0:00:08.40,0:00:12.21,Default,,0,0,0,,{\fad(180,280)}Sunlight dances on petals of gold; love’s
+Dialogue: 0,0:00:12.18,0:00:16.15,Default,,0,0,0,,{\fad(180,280)}warmth enfolds and never grows old.
+Dialogue: 0,0:00:16.94,0:00:18.94,Default,,0,0,0,,{\fad(180,280)}Birds thread sweet melodies through the
+Dialogue: 0,0:00:19.02,0:00:23.09,Default,,0,0,0,,{\fad(180,280)}air — nature’s canvas, vibrant and fair.
+Dialogue: 0,0:00:24.45,0:00:28.19,Dark,,0,0,0,,{\fad(180,280)}But shadows pool in the well of night:
+Dialogue: 0,0:00:28.57,0:00:31.84,Dark,,0,0,0,,{\fad(180,280)}whispers of despair, a chilling sight.
+Dialogue: 0,0:00:32.62,0:00:35.77,Dark,,0,0,0,,{\fad(180,280)}Darkness consumes, devours the light;
+Dialogue: 0,0:00:36.57,0:00:39.06,Dark,,0,0,0,,{\fad(180,280)}echoes of sorrow, an endless plight.
+Dialogue: 0,0:00:40.27,0:00:44.29,Dark,,0,0,0,,{\fad(180,280)}A haunting silence, a hollowing hush — in
+Dialogue: 0,0:00:44.19,0:00:47.37,Dark,,0,0,0,,{\fad(180,280)}the depths of despair we are left to
+Dialogue: 0,0:00:47.35,0:00:48.70,Dark,,0,0,0,,{\fad(180,280)}crush.
+Dialogue: 0,0:00:49.59,0:00:50.91,Default,,0,0,0,,{\fad(180,280)}Fair and vibrant?
+Dialogue: 0,0:00:50.87,0:00:52.85,Default,,0,0,0,,{\fad(180,280)}The canvas peels.
+Dialogue: 0,0:00:52.78,0:00:56.39,Default,,0,0,0,,{\fad(180,280)}Through the air, the melody keels.
+Dialogue: 0,0:00:57.01,0:01:00.11,Default,,0,0,0,,{\fad(180,280)}Old grows the warmth; it loosens its hold.
+Dialogue: 0,0:01:00.22,0:01:03.76,Default,,0,0,0,,{\fad(180,280)}Gold tarnishes; petals fold.
+Dialogue: 0,0:01:05.09,0:01:08.49,Default,,0,0,0,,{\fad(180,280)}Delight’s secrets — dawn’s little lie.
+Dialogue: 0,0:01:09.72,0:01:13.93,Default,,0,0,0,,{\fad(180,280)}Bright blooms hope, in the garden, to die.
+Dialogue: 0,0:01:15.53,0:01:18.94,Title,,0,0,0,,{\fad(180,280)}NOW READ me backwards.
+Dialogue: 0,0:01:19.85,0:01:24.09,Soft,,0,0,0,,{\fad(180,280)}Bright blooms hope, in the garden, to die.
+Dialogue: 0,0:01:24.94,0:01:29.10,Soft,,0,0,0,,{\fad(180,280)}Delight’s secrets — dawn’s little lie.
+Dialogue: 0,0:01:29.13,0:01:33.47,Soft,,0,0,0,,{\fad(180,280)}Gold tarnishes; petals unfold.
+Dialogue: 0,0:01:34.01,0:01:38.17,Soft,,0,0,0,,{\fad(180,280)}Old grows the warmth; it loosens its hold.
+Dialogue: 0,0:01:38.13,0:01:41.57,Soft,,0,0,0,,{\fad(180,280)}Through the air, the melody keels.
+Dialogue: 0,0:01:43.17,0:01:44.50,Soft,,0,0,0,,{\fad(180,280)}Fair and vibrant!
+Dialogue: 0,0:01:44.49,0:01:46.36,Soft,,0,0,0,,{\fad(180,280)}The canvas peels.
+Dialogue: 0,0:01:47.09,0:01:50.23,Soft,,0,0,0,,{\fad(180,280)}in the depths of despair we are left to
+Dialogue: 0,0:01:50.22,0:01:51.59,Soft,,0,0,0,,{\fad(180,280)}crush.
+Dialogue: 0,0:01:52.25,0:01:56.46,Soft,,0,0,0,,{\fad(180,280)}A haunting silence, a hollowing hush —
+Dialogue: 0,0:01:56.41,0:01:59.53,Soft,,0,0,0,,{\fad(180,280)}echoes of sorrow, an endless plight.
+Dialogue: 0,0:02:00.92,0:02:03.76,Soft,,0,0,0,,{\fad(180,280)}Darkness consumes, devours the light;
+Dialogue: 0,0:02:03.77,0:02:07.55,Soft,,0,0,0,,{\fad(180,280)}whispers of despair, a chilling sight.
+Dialogue: 0,0:02:08.70,0:02:12.49,Soft,,0,0,0,,{\fad(180,280)}But shadows pool in the well of night:
+Dialogue: 0,0:02:12.76,0:02:15.86,Soft,,0,0,0,,{\fad(180,280)}nature’s canvas, vibrant and fair.
+Dialogue: 0,0:02:15.99,0:02:19.08,Soft,,0,0,0,,{\fad(180,280)}Birds thread sweet melodies through the
+Dialogue: 0,0:02:19.05,0:02:23.23,Soft,,0,0,0,,{\fad(180,280)}air — love’s warmth enfolds and never
+Dialogue: 0,0:02:23.18,0:02:24.16,Soft,,0,0,0,,{\fad(180,280)}grows old.
+Dialogue: 0,0:02:24.42,0:02:29.18,Soft,,0,0,0,,{\fad(180,280)}Sunlight dances on petals of gold; each
+Dialogue: 0,0:02:29.14,0:02:31.75,Soft,,0,0,0,,{\fad(180,280)}dawn breathes secrets of delight.
+Dialogue: 0,0:02:33.12,0:02:36.19,Soft,,0,0,0,,{\fad(180,280)}In the garden of dreams, hope blossoms
+Dialogue: 0,0:02:36.15,0:02:36.95,Soft,,0,0,0,,{\fad(180,280)}bright.

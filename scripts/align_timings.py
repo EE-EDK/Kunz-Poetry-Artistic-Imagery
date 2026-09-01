@@ -78,9 +78,14 @@ def align_poem(client: ElevenLabs, poem: dict) -> None:
     if audio_path is None:
         print(f"Skip {poem['folder']}: no elevenlabs voice file")
         return
-    transcript_path = paths.POEMS / poem["folder"] / "transcript.txt"
+    base = paths.POEMS / poem["folder"]
+    spoken = base / "transcript.spoken.txt"
+    transcript_path = spoken if spoken.exists() else base / "transcript.txt"
     transcript = transcript_path.read_text(encoding="utf-8").strip()
-    print(f"Aligning {poem['folder']}  {audio_path.name} ({audio_path.stat().st_size} bytes)")
+    print(
+        f"Aligning {poem['folder']}  {audio_path.name} ({audio_path.stat().st_size} bytes)  "
+        f"text={transcript_path.name}"
+    )
     with audio_path.open("rb") as handle:
         response = client.forced_alignment.with_raw_response.create(
             file=(audio_path.name, handle, "application/octet-stream"),

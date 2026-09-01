@@ -1,88 +1,176 @@
 1
-00:00:00,080 --> 00:00:00,151
-The Garden of Perspective *read me
+00:00:00,153 --> 00:00:03,200
+In the garden of dreams, hope blossoms
 
 2
-00:00:00,150 --> 00:00:00,460
-backwards* (read me backwards) In the
+00:00:03,291 --> 00:00:07,600
+bright; each dawn breathes secrets of
 
 3
-00:00:00,500 --> 00:00:03,320
-garden of dreams, hope blossoms bright;
+00:00:07,680 --> 00:00:09,160
+delight.
 
 4
-00:00:04,340 --> 00:00:06,900
-each dawn breathes secrets of delight.
-
-5
-00:00:07,740 --> 00:00:11,300
+00:00:09,390 --> 00:00:13,520
 Sunlight dances on petals of gold; love’s
 
-6
-00:00:11,360 --> 00:00:14,360
+5
+00:00:13,611 --> 00:00:17,920
 warmth enfolds and never grows old.
 
-7
-00:00:15,580 --> 00:00:17,890
+6
+00:00:18,940 --> 00:00:21,040
 Birds thread sweet melodies through the
 
-8
-00:00:18,000 --> 00:00:21,890
+7
+00:00:21,260 --> 00:00:25,680
 air — nature’s canvas, vibrant and fair.
 
-9
-00:00:23,360 --> 00:00:25,860
+8
+00:00:27,333 --> 00:00:31,373
 But shadows pool in the well of night:
 
-10
-00:00:26,660 --> 00:00:29,620
+9
+00:00:31,942 --> 00:00:35,453
 whispers of despair, a chilling sight.
 
-11
-00:00:30,760 --> 00:00:33,700
+10
+00:00:36,466 --> 00:00:39,853
 Darkness consumes, devours the light;
 
-12
-00:00:34,600 --> 00:00:37,580
+11
+00:00:40,877 --> 00:00:43,533
 echoes of sorrow, an endless plight.
 
-13
-00:00:38,900 --> 00:00:43,570
+12
+00:00:45,019 --> 00:00:49,379
 A haunting silence, a hollowing hush — in
 
-14
-00:00:43,600 --> 00:00:46,620
+13
+00:00:49,399 --> 00:00:52,819
 the depths of despair we are left to
 
-15
-00:00:46,740 --> 00:00:47,300
+14
+00:00:52,926 --> 00:00:54,299
 crush.
 
-16
-00:00:48,880 --> 00:00:50,210
+15
+00:00:55,432 --> 00:00:56,779
 Fair and vibrant?
 
-17
-00:00:51,050 --> 00:00:52,540
+16
+00:00:56,869 --> 00:00:58,939
 The canvas peels.
 
-18
-00:00:53,380 --> 00:00:55,880
+17
+00:00:58,994 --> 00:01:02,899
 Through the air, the melody keels.
 
-19
-00:00:57,200 --> 00:01:00,680
+18
+00:01:03,724 --> 00:01:07,064
 Old grows the warmth; it loosens its hold.
 
-20
-00:01:01,500 --> 00:01:04,519
+19
+00:01:07,320 --> 00:01:11,144
 Gold tarnishes; petals fold.
 
-21
-00:01:05,660 --> 00:01:08,720
+20
+00:01:12,764 --> 00:01:16,424
 Delight’s secrets — dawn’s little lie.
 
-22
-00:01:09,860 --> 00:01:13,260
+21
+00:01:17,938 --> 00:01:22,504
 Bright blooms hope, in the garden, to die.
+
+22
+00:01:24,427 --> 00:01:28,107
+NOW READ me backwards.
+
+23
+00:01:29,264 --> 00:01:33,867
+Bright blooms hope, in the garden, to die.
+
+24
+00:01:34,948 --> 00:01:39,468
+Delight’s secrets — dawn’s little lie.
+
+25
+00:01:39,628 --> 00:01:44,348
+Gold tarnishes; petals unfold.
+
+26
+00:01:45,083 --> 00:01:49,603
+Old grows the warmth; it loosens its hold.
+
+27
+00:01:49,688 --> 00:01:53,403
+Through the air, the melody keels.
+
+28
+00:01:55,323 --> 00:01:56,683
+Fair and vibrant!
+
+29
+00:01:56,803 --> 00:01:58,763
+The canvas peels.
+
+30
+00:01:59,707 --> 00:02:03,085
+in the depths of despair we are left to
+
+31
+00:02:03,205 --> 00:02:04,605
+crush.
+
+32
+00:02:05,475 --> 00:02:10,045
+A haunting silence, a hollowing hush —
+
+33
+00:02:10,125 --> 00:02:13,485
+echoes of sorrow, an endless plight.
+
+34
+00:02:15,165 --> 00:02:18,205
+Darkness consumes, devours the light;
+
+35
+00:02:18,356 --> 00:02:22,445
+whispers of despair, a chilling sight.
+
+36
+00:02:23,868 --> 00:02:27,965
+But shadows pool in the well of night:
+
+37
+00:02:28,401 --> 00:02:31,734
+nature’s canvas, vibrant and fair.
+
+38
+00:02:32,014 --> 00:02:35,334
+Birds thread sweet melodies through the
+
+39
+00:02:35,434 --> 00:02:39,974
+air — love’s warmth enfolds and never
+
+40
+00:02:40,054 --> 00:02:41,014
+grows old.
+
+41
+00:02:41,434 --> 00:02:46,619
+Sunlight dances on petals of gold; each
+
+42
+00:02:46,715 --> 00:02:49,499
+dawn breathes secrets of delight.
+
+43
+00:02:51,161 --> 00:02:54,459
+In the garden of dreams, hope blossoms
+
+44
+00:02:54,550 --> 00:02:55,499
+bright.
 
