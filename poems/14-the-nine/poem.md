@@ -1,6 +1,6 @@
 # The Nine
 
-*Shadowshining · 16*
+*Shadowshining · 14*
 
 At night, the call to unconscious crawling,
 to brawl in my mind as I’m falling.

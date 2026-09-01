@@ -1,6 +1,6 @@
 # Treatise
 
-*Shadowshining · 20*
+*Shadowshining · 16*
 
 Breathe.
 

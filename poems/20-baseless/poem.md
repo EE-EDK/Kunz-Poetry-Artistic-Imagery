@@ -1,6 +1,6 @@
 # Baseless
 
-*Shadowshining · 25*
+*Shadowshining · 20*
 
 Dissolve words.
 Disassociate and devolve.

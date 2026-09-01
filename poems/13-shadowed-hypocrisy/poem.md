@@ -1,6 +1,6 @@
 # Shadowed Hypocrisy
 
-*Shadowshining · 14*
+*Shadowshining · 13*
 
 I stalk the sight of a righteous plight,
 of a pious light hypocritically bright,

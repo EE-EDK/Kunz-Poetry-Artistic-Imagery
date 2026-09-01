@@ -1,6 +1,28 @@
 # Shadowshining
 
-Selected poems, 2009–2025.
+Selected poems, 2009–2025. Twenty poems.
+
+01. A Tree Through the Forest
+02. Murdered Mind
+03. Apoclyte
+04. Seeds of Memory: From Death
+05. The Garden of Perspective
+06. Ersatz Machinations
+07. Stalked in Realms
+08. Shadowshine
+09. The Chair
+10. Red Shift
+11. The Forest Disease
+12. Circle of Light
+13. Shadowed Hypocrisy
+14. The Nine
+15. Nihilism
+16. Treatise
+17. The Memory Tree
+18. Perversion of Light
+19. Fly Amanita
+20. Baseless
+
 
 ## A Tree Through the Forest
 
@@ -335,44 +357,6 @@ Sol and Luna, a cosmic array, immaterial.
 
 ---
 
-## Hollow Honey Rocks
-
-Hollow honey rocks on top —
-you lie to me and never stop.
-The rock is surface, air inside;
-your talk, it kisses my bright side.
-So sweet: ideally, kiss me freely;
-never know just what is really
-happening within your shell —
-just heated air and empty hell.
-Your core is a cold war of silence;
-more and more you lose your sense,
-where simple things are made of you —
-those things control your fading view.
-
-(Chorus)
-Well, love — dies softly — I lie so well
-that my pain — is worse — than a thousand hells.
-Though honey — is sweet — you are far from that,
-and your empty parts — are filled with endless combat.
-Well, I hate it, despise it, can’t ever hope to hide it;
-I can’t bind it, you can’t find it, no mankind just can’t define it.
-I’m inclined to stand behind it, but confined, decline to be reminded
-that resigning would remind me of how badly you unwind me.
-
-So, like hollow honey rocks,
-your heart is locked up in a box —
-appearing wonderful at first,
-but once experienced, a curse.
-And smashing you would bring me peace,
-perhaps allow for your release;
-but empty air would not subside
-when what’s inside appears outside.
-So killing you would show the real you —
-in thrilling me, but stealing from you.
-
----
-
 ## Shadowed Hypocrisy
 
 I stalk the sight of a righteous plight,
@@ -389,35 +373,6 @@ Running in circles unfurled, they whirl,
 seeding with pearls of glass that they hurl.
 A lie isn’t lying if I say that it’s not —
 for when I write the rules, who am I to get caught?
-
----
-
-## The Essence of Life
-
-When life seems like a shimmer fading, falling all around —
-not my life or your life, but the life that’s like a sound:
-at once it echoes, then it’s softer, feeling louder all the same,
-reverberating off the Earth; each sound is like a game.
-
-A game that’s far too distant, far too fast, then gone away;
-the rules that seemed so simple, over time, seem to decay.
-What we know we are is wasted by the things we wished we knew;
-then all the sounds see fit to mimic equal sounds of just a few.
-
-So are we pieces in a song of just ideals leading true,
-or do we write our own songs — just a noise, and nothing new?
-For within the clamored outcries of the random ringing noise
-there exists a glint and glimmer, barely seen: a flashing voice.
-
-It burns within the melody and screams above the rest
-in hard, pervading whispers, ever freeing the oppressed.
-No words describe its forming; an idea can’t be named —
-instead it’s sought by every sound, all seeking their own claim.
-
-One can’t bind a blowing breeze by way of strength or intellect;
-to grasp a gleaming concept in one’s hands is to reflect.
-For it is only in reflection that we ever truly see
-that the voice that spoke inside our sounds was, all along, the key.
 
 ---
 
@@ -488,62 +443,6 @@ I hand the doctor a note in pen:
 ## Nihilism
 
 Nihilistic poses are like deadened, burning roses — just like slow, sadistic crows will chew and peck what He opposes. Now I look at all your noses, elevated, I suppose; you never chose to find out just where all your tiny little toes were. So your morals decomposed with all the actions we exposed; I guess it’s never been proposed to you to never presuppose. It’s true there’s nothing you oppose, yet everything you think’s enclosed — to beliefs that you have froze and thoughts that never juxtapose — because the seat of all you know was never really known.
-
----
-
-## To Kill You in My Thoughts
-
-If I could kill you in my thoughts, my mind would run as red as Cain’s;
-I’d have my fill of all I’ve fought — then blindness quickly spreads the stains
-that penetrate the minds of others, lost in blindness, so alone,
-and violate their sense of peace by smothering a peace thought known.
-My thoughts are filled with countenance relating to my slaughter —
-why? Because I set my thoughts anew and change them into water.
-Their purity is self-contained and lies sincerely to itself;
-there is no cure that will remain once I decide to hide myself.
-Then, deep within, what I deem right will warp and twist like molten metal,
-bringing out the worst in me without a chance to clearly settle.
-No prediction can achieve an accurate or valid vision
-of infliction from the murder, or encumbrance in decision.
-Find me, then, in this state confined, and kill me if you think you can;
-you’ll see that when you reach my mind, I’ll fill you with what you began.
-Warping me was what you sought; seen inside my head, you spread your lies,
-wound tight, creating mischief wrought with pain — soon plotting your demise.
-No one will attempt to hear your muffled screams outside desired;
-they’ll manifest contorted sighs, like when you lit my heart on fire.
-But what’s left after battle allays, and baneful thrashing has ceased?
-Perhaps theft of mind’s peace has tarnished the soul, awakened the beast.
-Once supernal dust clears, with a whispering thought, from the ashes,
-the brain is unknowing of how badly the final end clashes.
-I told you before that you could not and would not control me;
-my bold truth abhors flat rues that could not and would not extol me.
-The actuation of my strength lies inside my faithful thinking
-of starvation to your soul, from all the pain you stand in, sinking.
-The greatest pain of all lies deep within the core of the dispute:
-that once you moved on, you found it fine to leave me for the hot pursuit
-of someone else that broke the chain of all the love that I had found —
-so, left here wounded in my mind, I try to wound you, void of sound.
-
-Your pain is what slowly settles my pain — insane — that restlessness is settled by this reign of chaos in my mind. Just go away; leave it all behind.
-
----
-
-## And A Million More
-
-A billion minds buzz low in sequence,
-striding with signs delivered in earnest.
-None can measure Utopian frequence:
-a dark conformist turned a reformist.
-
-Ringing in center, devoid of humanity —
-the sting of a crutch consumed by them all,
-pale seas of sepsis in tranquil vanity,
-reduced to base forms by the summoning call.
-
-For to turn from the wave and to gaze away
-is to view the horrors, the truth of the drones;
-to acknowledge the dark in the light — and betray —
-is to look at the base of the throne, with its bones.
 
 ---
 
@@ -647,30 +546,6 @@ swirl around the margarita.
 
 Pain dispersed in veins now spreads;
 white visions say she’ll soon be dead.
-
----
-
-## Bridge Wall
-
-There sits a bridge higher than high,
-built as a wall taller than tall.
-Under the bridge, a truth and a lie;
-those seeking truth die in the fall.
-
-All see the wall when on a side,
-screaming across, crying in vain.
-All see the bridge when one allies,
-dissolving the gloss, crossing the grain.
-
-Follow the flock smashing the wall —
-never you mind the bridge that is gone.
-Pick up a rock thrown from the brawl;
-never a pawn, leading it on.
-
-Where is the bridge joining them all?
-Proles understand: building new walls,
-man on his hands learning to crawl,
-remaining small, clawing for all.
 
 ---
 

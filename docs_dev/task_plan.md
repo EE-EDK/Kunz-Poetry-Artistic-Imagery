@@ -1,6 +1,6 @@
 # Task plan — Shadowshining
 
-1. Scaffold 25 poem folders and catalog. **done (bootstrap)**
+1. Scaffold 20 poem folders and catalog. **done (bootstrap)**
 2. Align existing voice takes (01, 02, 03). **done**
 3. File Downloads dump into per-poem audio / timing / video. **done**
 4. Poem 01 picture cut. **done** — `01-a-tree-through-the-forest-final.mp4`. Website published. Handoff to other machine / kunzhub.

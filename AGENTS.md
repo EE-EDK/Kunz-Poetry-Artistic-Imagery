@@ -15,7 +15,7 @@ Read only this project. Do not pull The Void is Crimson production data.
 
 ## Project Identity
 
-*Shadowshining* is a 25-poem audiovisual set — **twenty-five independent
+*Shadowshining* is a 20-poem audiovisual set — **twenty independent
 films in one repo**, not one production. Unit of work is one poem folder
 under `poems/NN-slug/`. Shared scripts live in `scripts/`. Paths resolve from
 `paths.py`. Public showing:

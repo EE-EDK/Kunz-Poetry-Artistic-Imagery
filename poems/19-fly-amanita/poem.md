@@ -1,6 +1,6 @@
 # Fly Amanita
 
-*Shadowshining · 23*
+*Shadowshining · 19*
 
 Fly, fly, amanita,
 drift the sky, señorita.

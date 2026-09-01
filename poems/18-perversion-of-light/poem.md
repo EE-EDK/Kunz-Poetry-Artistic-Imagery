@@ -1,6 +1,6 @@
 # Perversion of Light
 
-*Shadowshining · 22*
+*Shadowshining · 18*
 
 A man kills a helpless child
 in a meadow green, the flowers wild.

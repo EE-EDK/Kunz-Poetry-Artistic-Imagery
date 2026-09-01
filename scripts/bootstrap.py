@@ -1,4 +1,4 @@
-"""Create the 25-poem tree and file existing Downloads artifacts into it."""
+"""Create the 20-poem tree and file existing Downloads artifacts into it."""
 
 from __future__ import annotations
 
@@ -222,13 +222,14 @@ def main() -> int:
             shutil.move(str(md_path), str(paths.POEMS_MD))
 
     poems = parse_poems(paths.POEMS_MD.read_text(encoding="utf-8"))
-    if len(poems) != 25:
-        print(f"WARNING: expected 25 poems, parsed {len(poems)}")
+    if len(poems) != 20:
+        print(f"WARNING: expected 20 poems, parsed {len(poems)}")
 
     for poem in poems:
         base = ensure_tree(poem["folder"])
         write_poem_md(poem, base / "poem.md")
-        (base / "transcript.txt").write_text(poem["transcript"] + "\n", encoding="utf-8")
+        if not (base / "transcript.spoken.txt").exists():
+            (base / "transcript.txt").write_text(poem["transcript"] + "\n", encoding="utf-8")
 
     for name, folder, rel in FILE_MAP:
         move_if_exists(ROOT / name, paths.POEMS / folder / rel)
