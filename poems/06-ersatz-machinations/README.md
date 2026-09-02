@@ -23,4 +23,9 @@ Ten Epidemic Sound stems in `audio/sfx/` (cue + 5 s, HUM 98 s). See `audio/sfx/C
 
 ## Next
 
-1. Stills and picture.
+Hub published 2026-09-02 on kunz-ai-hub
+(`06-ersatz-machinations-final.mp4`, 1080p). Poster is still 01
+(`images/06-01-base-robot.jpg`). New take = new web filename
+(`GROK.md` → Hub publish). Mix SFX still local. The 720p
+`06-ersatz-machinations-web.mp4` is the smaller encode; the hub
+serves the 1080p final.
