@@ -79,7 +79,7 @@
         "epidemic": false,
         "mix": true,
         "timing": true,
-        "images": false,
+        "images": true,
         "video": true
       }
     },
@@ -93,7 +93,7 @@
         "music": false,
         "sfx": true,
         "epidemic": false,
-        "mix": false,
+        "mix": true,
         "timing": true,
         "images": false,
         "video": false
