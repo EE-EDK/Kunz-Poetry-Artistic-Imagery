@@ -23,5 +23,7 @@ Ten Epidemic Sound stems in `audio/sfx/` (capped at 30 s). See `audio/sfx/CUE_MA
 
 ## Next
 
-1. Mix SFX to the voice clock.
-2. Stills and picture.
+Hub published 2026-09-02 on kunz-ai-hub
+(`05-the-garden-of-perspective-final.mp4`). Poster is still 01
+(`images/05-01-dawn-garden.jpg`). New take = new web filename
+(`GROK.md` → Hub publish). Mix SFX still local.
