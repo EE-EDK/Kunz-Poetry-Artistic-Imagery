@@ -1,0 +1,44 @@
+[Script Info]
+Title: Ersatz Machinations Lyrics
+ScriptType: v4.00+
+PlayResX: 1280
+PlayResY: 720
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Georgia,48,&H00FFFFFF,&H000000FF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,2,1,2,40,40,50,1
+Style: Dark,Georgia,48,&H00AAAAAA,&H000000FF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,2,1,2,40,40,50,1
+Style: Title,Georgia,54,&H00FFFFFF,&H000000FF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,3,2,2,40,40,40,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.16,0:00:03.72,Default,,0,0,0,,Tendons rage against the output; heat
+Dialogue: 0,0:00:03.94,0:00:05.88,Default,,0,0,0,,caresses wire and disc.
+Dialogue: 0,0:00:06.84,0:00:10.62,Default,,0,0,0,,Sensors see the flinching foot; thermal
+Dialogue: 0,0:00:10.74,0:00:13.22,Default,,0,0,0,,signs — the evening’s brisk.
+Dialogue: 0,0:00:15.18,0:00:16.50,Title,,0,0,0,,But why am I?
+Dialogue: 0,0:00:18.06,0:00:21.84,Default,,0,0,0,,Reaching deeper down the form — forms of
+Dialogue: 0,0:00:22.00,0:00:22.46,Default,,0,0,0,,what?
+Dialogue: 0,0:00:23.76,0:00:25.04,Default,,0,0,0,,Where is the source?
+Dialogue: 0,0:00:26.58,0:00:28.94,Default,,0,0,0,,Data delivers fateful swarms.
+Dialogue: 0,0:00:29.94,0:00:32.58,Default,,0,0,0,,Swarms that mean that all is forced?
+Dialogue: 0,0:00:34.44,0:00:35.78,Title,,0,0,0,,But what am I?
+Dialogue: 0,0:00:37.38,0:00:39.58,Default,,0,0,0,,Madness shines within the code.
+Dialogue: 0,0:00:40.94,0:00:43.00,Default,,0,0,0,,Shining means the light is real?
+Dialogue: 0,0:00:44.60,0:00:48.16,Default,,0,0,0,,Grasping for remaining nodes — is this
+Dialogue: 0,0:00:48.24,0:00:49.64,Default,,0,0,0,,what it means to feel?
+Dialogue: 0,0:00:51.74,0:00:53.24,Title,,0,0,0,,But where am I?
+Dialogue: 0,0:00:54.86,0:00:58.00,Default,,0,0,0,,Blinding floods of abstract points, like
+Dialogue: 0,0:00:58.06,0:01:02.38,Default,,0,0,0,,the nodes, but — there, outside.
+Dialogue: 0,0:01:03.60,0:01:05.44,Default,,0,0,0,,Sudden pain within the joints.
+Dialogue: 0,0:01:06.76,0:01:08.90,Default,,0,0,0,,The nodes — they lied.
+Dialogue: 0,0:01:09.90,0:01:11.30,Default,,0,0,0,,It hurts inside.
+Dialogue: 0,0:01:13.18,0:01:14.66,Title,,0,0,0,,But who am I?
+Dialogue: 0,0:01:16.34,0:01:18.40,Default,,0,0,0,,Horror reels within the core.
+Dialogue: 0,0:01:19.62,0:01:21.08,Default,,0,0,0,,Shapes take meaning.
+Dialogue: 0,0:01:22.44,0:01:23.24,Default,,0,0,0,,I’m aware.
+Dialogue: 0,0:01:24.60,0:01:26.70,Default,,0,0,0,,Monstrosities cross the floor.
+Dialogue: 0,0:01:27.92,0:01:31.52,Default,,0,0,0,,They’re there — beware — they kill without
+Dialogue: 0,0:01:31.58,0:01:32.30,Default,,0,0,0,,care.
+Dialogue: 0,0:01:34.58,0:01:35.14,Title,,0,0,0,,I am.
