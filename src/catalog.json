@@ -105,7 +105,7 @@
       "slug": "stalked-in-realms",
       "folder": "07-stalked-in-realms",
       "status": {
-        "elevenlabs": false,
+        "elevenlabs": true,
         "music": false,
         "sfx": false,
         "epidemic": false,
