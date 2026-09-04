@@ -1,0 +1,56 @@
+[Script Info]
+Title: The Chair — Shadowshining 09
+ScriptType: v4.00+
+PlayResX: 1280
+PlayResY: 720
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Georgia,48,&H00FFFFFF,&H000000FF,&H00000000,&H80000000,0,0,0,0,100,100,0,0,1,2.2,1.2,2,60,60,48,1
+Style: Soft,Georgia,46,&H00E8E8E8,&H000000FF,&H00111111,&H90000000,0,0,0,0,100,100,0,0,1,2.0,1.0,2,60,60,48,1
+Style: Dark,Georgia,48,&H00C8C8C8,&H000000FF,&H00000000,&HA0000000,0,0,0,0,100,100,0,0,1,2.5,1.5,2,60,60,48,1
+Style: Title,Georgia,52,&H00FFFFFF,&H000000FF,&H00000000,&H80000000,0,0,0,0,100,100,1,0,1,2.5,1.5,2,60,60,56,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:00.10,0:00:03.70,Default,,0,0,0,,{\fad(400,400)}An emptiness watches from the seat of All.
+Dialogue: 0,0:00:05.30,0:00:08.16,Dark,,0,0,0,,{\fad(400,400)}It stares across a violent oblivion into a
+Dialogue: 0,0:00:08.20,0:00:12.08,Dark,,0,0,0,,{\fad(400,400)}cacophony of obtuse insanity.
+Dialogue: 0,0:00:12.14,0:00:15.04,Default,,0,0,0,,{\fad(400,400)}Penetrating points of light reach out and
+Dialogue: 0,0:00:15.18,0:00:17.54,Default,,0,0,0,,{\fad(400,400)}strike monotonous hums of brutal
+Dialogue: 0,0:00:17.58,0:00:21.09,Default,,0,0,0,,{\fad(400,400)}indifference, fed from a matrix of drones
+Dialogue: 0,0:00:21.38,0:00:22.40,Default,,0,0,0,,{\fad(400,400)}somewhere beyond.
+Dialogue: 0,0:00:24.04,0:00:28.76,Default,,0,0,0,,{\fad(400,400)}The beyond is known, yet in mystery its
+Dialogue: 0,0:00:28.78,0:00:33.12,Dark,,0,0,0,,{\fad(400,400)}knowledge is rot — an inborn seed leading
+Dialogue: 0,0:00:33.16,0:00:35.84,Default,,0,0,0,,{\fad(400,400)}to the desolate entropy of the very
+Dialogue: 0,0:00:36.04,0:00:37.34,Default,,0,0,0,,{\fad(400,400)}fabric of existence.
+Dialogue: 0,0:00:39.06,0:00:41.32,Dark,,0,0,0,,{\fad(400,400)}All collapses against the vision of
+Dialogue: 0,0:00:41.36,0:00:41.98,Default,,0,0,0,,{\fad(400,400)}attention.
+Dialogue: 0,0:00:43.34,0:00:45.40,Default,,0,0,0,,{\fad(400,400)}Attending to the minute details of the
+Dialogue: 0,0:00:45.48,0:00:48.64,Default,,0,0,0,,{\fad(400,400)}anti-void relates meaning to apocryphal
+Dialogue: 0,0:00:48.68,0:00:52.78,Default,,0,0,0,,{\fad(400,400)}cycles — elements that gestate the living
+Dialogue: 0,0:00:52.80,0:00:53.40,Default,,0,0,0,,{\fad(400,400)}and the dead.
+Dialogue: 0,0:00:54.92,0:00:56.92,Default,,0,0,0,,{\fad(400,400)}Meaning is contained within the vision,
+Dialogue: 0,0:00:58.02,0:01:00.68,Default,,0,0,0,,{\fad(400,400)}yet the vision extrapolates being through
+Dialogue: 0,0:01:00.72,0:01:01.82,Default,,0,0,0,,{\fad(400,400)}its mode of intent.
+Dialogue: 0,0:01:03.36,0:01:07.46,Default,,0,0,0,,{\fad(400,400)}Intention settles the paradox outside of
+Dialogue: 0,0:01:07.50,0:01:09.84,Default,,0,0,0,,{\fad(400,400)}what is and what is not.
+Dialogue: 0,0:01:11.18,0:01:13.60,Default,,0,0,0,,{\fad(400,400)}Causation observes the seat that All
+Dialogue: 0,0:01:13.66,0:01:16.82,Default,,0,0,0,,{\fad(400,400)}inhabits, curiously morphing its meaning
+Dialogue: 0,0:01:16.88,0:01:19.22,Default,,0,0,0,,{\fad(400,400)}into deeper layers that settle out of
+Dialogue: 0,0:01:19.28,0:01:19.62,Default,,0,0,0,,{\fad(400,400)}reach.
+Dialogue: 0,0:01:21.26,0:01:24.26,Default,,0,0,0,,{\fad(400,400)}Whispers feed through cracks that almost
+Dialogue: 0,0:01:24.36,0:01:26.04,Default,,0,0,0,,{\fad(400,400)}give sign to their construction.
+Dialogue: 0,0:01:27.92,0:01:31.22,Dark,,0,0,0,,{\fad(400,400)}Where is space if space is cracked?
+Dialogue: 0,0:01:32.94,0:01:35.30,Default,,0,0,0,,{\fad(400,400)}And when the paradoxical happenings slip
+Dialogue: 0,0:01:35.34,0:01:39.36,Soft,,0,0,0,,{\fad(400,400)}from the sight of All, are they free?
+Dialogue: 0,0:01:39.40,0:01:42.04,Default,,0,0,0,,{\fad(400,400)}Determinism dissolves its own arrogant
+Dialogue: 0,0:01:42.08,0:01:45.08,Soft,,0,0,0,,{\fad(400,400)}tyranny, and the essence of what we are
+Dialogue: 0,0:01:45.48,0:01:46.72,Soft,,0,0,0,,{\fad(400,400)}blooms in full.
+Dialogue: 0,0:01:48.16,0:01:52.52,Default,,0,0,0,,{\fad(400,400)}It exists — it must — for no binary of
+Dialogue: 0,0:01:52.54,0:01:55.14,Default,,0,0,0,,{\fad(400,400)}actionable consequence can deride another
+Dialogue: 0,0:01:55.16,0:01:55.88,Default,,0,0,0,,{\fad(400,400)}possibility.
+Dialogue: 0,0:01:57.76,0:02:02.50,Title,,0,0,0,,{\fad(400,400)}I am, so it is, so we are.
