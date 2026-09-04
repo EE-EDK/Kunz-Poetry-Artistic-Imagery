@@ -39,4 +39,9 @@ Mix FINAL **122.68 s** = dry voice. Picture locked to mix. Last line dry.
 
 ## Next
 
-Hub publish when asked (`GROK.md` → Hub publish). Poster candidate: `images/09-01-seat-of-all.jpg`.
+Hub published 2026-09-04 on kunz-ai-hub
+(`09-the-chair-final.mp4`, 1080p). Poster is still 01
+(`images/09-01-seat-of-all.jpg`). New take = new web filename
+(`GROK.md` → Hub publish). Mix SFX still local. The 720p
+`09-the-chair-final-720.mp4` and CRF web copy are the smaller
+encodes; the hub serves the 1080p final.
