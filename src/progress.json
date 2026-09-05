@@ -1,6 +1,6 @@
 {
   "collection": "Shadowshining",
-  "active_poem": 6,
+  "active_poem": 21,
   "poems": {
     "01": {
       "phase": "handoff",
@@ -37,6 +37,12 @@
       "website": false,
       "kunzhub": false,
       "note": "FINAL mp3 + timing. Voice-only so far."
+    },
+    "21": {
+      "phase": "voice-ready",
+      "website": false,
+      "kunzhub": false,
+      "note": "Remanence r3 draft (not gold). Voice FINAL wav 194.7 s. Architecture v3.0."
     }
   }
 }

@@ -2,7 +2,7 @@
 
 ## Project Identity
 
-Twenty poem films from the *Shadowshining* collection. Each poem is its
+Twenty-one poem films from the *Shadowshining* collection. Each poem is its
 own unit: ElevenLabs voice, timing, music, SFX, stills, lyric video. Lighter
 than The Void is Crimson — no 540-shot bible, no continuity ledger.
 
@@ -10,14 +10,14 @@ Folder on disk: `ACTIVE-PROJECTS/ai-video-photo/Kunz-Poetry-Artistic-Imagery`
 (cloned onto kunz-ai-hub 2026-08-31). On KunzPrime it has also lived under
 the local name `Kunz-Poems-Eleven-Labs-MP3`.
 
-This is **twenty independent poem-films in one repo**, not one production.
+This is **twenty-one independent poem-films in one repo**, not one production.
 The public showing is
 https://kunz-ai-hub.tailb1d0b7.ts.net/p/shadowshining-selected-poems/ .
 
 Active poem: **06 Ersatz Machinations** (`src/progress.json`).
 Poems **01–04** have `*-final.mp4` in git; hub publish is on the other machine.
 
-Collection order (20):
+Collection order (21):
 
 | # | Title |
 |---|---|
@@ -41,6 +41,7 @@ Collection order (20):
 | 18 | Perversion of Light |
 | 19 | Fly Amanita |
 | 20 | Baseless |
+| 21 | Remanence |
 
 ## Doc Precedence
 
@@ -50,7 +51,7 @@ story data, locks, or scripts.
 ## Pipeline Commands
 
 ```
-python scripts/bootstrap.py              # rebuild 20-poem tree + catalog.json
+python scripts/bootstrap.py              # rebuild 21-poem tree + catalog.json
 python scripts/align_timings.py 01       # forced alignment for one poem
 python scripts/align_timings.py --all    # any poem that has a voice file
 python scripts/import_history_alignment.py 05 <history_id> --audio

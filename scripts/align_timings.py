@@ -57,6 +57,14 @@ def voice_file(poem: dict) -> Path | None:
         candidate = audio_dir / name
         if candidate.exists():
             return candidate
+    for pattern in (f"{folder}-voice-FINAL*.wav", f"{folder}-voice-FINAL*.mp3"):
+        hits = sorted(
+            p
+            for p in audio_dir.glob(pattern)
+            if p.is_file() and "part2" not in p.stem.lower()
+        )
+        if hits:
+            return hits[0]
     for ext in (".wav", ".mp3", ".flac", ".m4a"):
         hits = sorted(
             p for p in audio_dir.glob(f"*{ext}")

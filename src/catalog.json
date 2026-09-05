@@ -1,7 +1,7 @@
 {
   "collection": "Shadowshining",
   "subtitle": "Selected poems, 2009\u20132025",
-  "poem_count": 20,
+  "poem_count": 21,
   "poems": [
     {
       "id": 1,
@@ -314,6 +314,22 @@
       "folder": "20-baseless",
       "status": {
         "elevenlabs": false,
+        "music": false,
+        "sfx": false,
+        "epidemic": false,
+        "mix": false,
+        "timing": false,
+        "images": false,
+        "video": false
+      }
+    },
+    {
+      "id": 21,
+      "title": "Remanence",
+      "slug": "remanence",
+      "folder": "21-remanence",
+      "status": {
+        "elevenlabs": true,
         "music": false,
         "sfx": false,
         "epidemic": false,

@@ -1,4 +1,4 @@
-"""Create the 20-poem tree and file existing Downloads artifacts into it."""
+"""Create the 21-poem tree and file existing Downloads artifacts into it."""
 
 from __future__ import annotations
 
@@ -223,7 +223,7 @@ def main() -> int:
 
     poems = parse_poems(paths.POEMS_MD.read_text(encoding="utf-8"))
     if len(poems) != 20:
-        print(f"WARNING: expected 20 poems, parsed {len(poems)}")
+        print(f"WARNING: expected 21 poems, parsed {len(poems)}")
 
     for poem in poems:
         base = ensure_tree(poem["folder"])
