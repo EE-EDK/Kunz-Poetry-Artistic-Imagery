@@ -43,3 +43,11 @@ Newest take per shot ID, clean names. Style refs **ex15–ex20** (Hit lock). Sho
 Mix-FINAL vs `transcript.spoken.txt`. Loss **0.71**. Spoken **0.42 → 105.22**. Last word **حمراء.** Tail to **130.31 s**.
 
 Epidemic beds stay local (`audio/music/`, `audio/sfx/`).
+
+## Next
+
+Hub published 2026-09-05 on kunz-ai-hub
+(`10-red-shift-FULL-FINAL.mp4`, 720p High yuv420p, 188.25 s).
+Poster is still 10 (`images/10-10-s1-road-open.jpg`). New take =
+new web filename (`GROK.md` → Hub publish). Git has no 1080p of
+this cut; the hub serves the remuxed FULL-FINAL.
