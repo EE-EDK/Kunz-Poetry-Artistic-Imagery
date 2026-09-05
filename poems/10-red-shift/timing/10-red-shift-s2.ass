@@ -1,0 +1,20 @@
+[Script Info]
+Title: Red Shift Stanza 2 — SRT-locked photoreal
+ScriptType: v4.00+
+PlayResX: 1280
+PlayResY: 720
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: EN,DejaVu Sans,42,&H00E8F0FF,&H000000FF,&H80000000,&H64000000,-1,0,0,0,100,100,0.6,0,1,2.2,1.2,7,48,80,36,1
+Style: AR,Noto Naskh Arabic,28,&H0090B8E8,&H000000FF,&H80000000,&H64000000,0,0,0,0,100,100,0,0,1,1.8,1.0,3,48,48,40,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:00.00,0:00:02.10,AR,,0,0,0,,{\fad(200,250)}تحت الأحمر المشتعل بوابة سوداء كبيرة.
+Dialogue: 0,0:00:02.24,0:00:05.48,EN,,0,0,0,,{\fad(200,250)}Beneath fiery red, there's a big black gate.
+Dialogue: 0,0:00:05.52,0:00:07.84,AR,,0,0,0,,{\fad(200,250)}في بلدة ميتة في آخر الطريق.
+Dialogue: 0,0:00:08.12,0:00:11.56,EN,,0,0,0,,{\fad(200,250)}In a town that's dead at the end of the straight.

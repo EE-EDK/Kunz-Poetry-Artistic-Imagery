@@ -140,10 +140,7 @@ def write_poem_md(poem: dict, dest: Path) -> None:
 
 def ensure_tree(folder: str) -> Path:
     base = paths.POEMS / folder
-    for sub in paths.POEM_SUBDIRS:
-        (base / sub).mkdir(parents=True, exist_ok=True)
-    for audio_sub in paths.AUDIO_SUBDIRS:
-        (base / "audio" / audio_sub).mkdir(parents=True, exist_ok=True)
+    base.mkdir(parents=True, exist_ok=True)
     return base
 
 
@@ -203,18 +200,12 @@ def main() -> int:
     paths.INBOX.mkdir(exist_ok=True)
     paths.DOCS.mkdir(exist_ok=True)
     paths.DOCS_DEV.mkdir(exist_ok=True)
-    paths.OUTPUT.mkdir(exist_ok=True)
-    (paths.INBOX / "elevenlabs").mkdir(exist_ok=True)
-    (paths.INBOX / "music").mkdir(exist_ok=True)
-    (paths.INBOX / "sfx").mkdir(exist_ok=True)
-    (paths.INBOX / "epidemic").mkdir(exist_ok=True)
-    (paths.INBOX / "images").mkdir(exist_ok=True)
-    (paths.INBOX / "video").mkdir(exist_ok=True)
-    (paths.INBOX / "README.md").write_text(
-        "Drop new local artifacts here. File them into `poems/NN-slug/...` "
-        "by poem — do not leave production media in this inbox.\n",
-        encoding="utf-8",
-    )
+    if not (paths.INBOX / "README.md").exists():
+        (paths.INBOX / "README.md").write_text(
+            "Drop new local artifacts here. File them into `poems/NN-slug/...` "
+            "by poem — do not leave production media in this inbox.\n",
+            encoding="utf-8",
+        )
 
     if md_path.resolve() != paths.POEMS_MD.resolve():
         paths.POEMS_MD.parent.mkdir(parents=True, exist_ok=True)
