@@ -38,8 +38,9 @@ Epidemic beds stay local (`audio/music/`, `audio/sfx/`).
 
 ## Next
 
-Hub published 2026-09-06 on kunz-ai-hub
-(`10-red-shift-FULL-1080p.mp4`, 1080p High yuv420p, 188.29 s).
-Poster is the Hit riverfront still (`red-shift-cover-hit.jpg`).
-New take = new web filename (`GROK.md` → Hub publish). The 720p
-FULL-FINAL is off git; the hub serves the remuxed 1080p.
+Hub published 2026-09-06 on kunz-ai-hub, then rolled back to 720p
+the same day (1080p had playback issues). Serves
+`red-shift-720.mp4` from `10-red-shift-FULL-FINAL.mp4`. 1080p is
+stashed at `media/films/_stash/red-shift-1080.mp4` on the hub and
+still in git as `video/10-red-shift-FULL-1080p.mp4`. Poster is the
+Hit riverfront still. New take = new web filename.
