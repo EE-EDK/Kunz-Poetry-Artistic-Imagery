@@ -8,5 +8,5 @@
 | S3 | 45.80–64.14 | LOCKED |
 | S4+S5 | 64.14–130.31 | LOCKED |
 
-**Full film:** `10-red-shift-FULL-FINAL.mp4`
-Intro soft-xfade 2.5s → body concat (S1–S5) on mix clock.
+**Full film:** `10-red-shift-FULL-1080p.mp4` (1920×1080, 188.29 s).
+Intro soft-xfade 2.5s → body concat (S1–S5) on mix clock. 720p FULL-FINAL and stanza cuts stay in `video/archive/`.
