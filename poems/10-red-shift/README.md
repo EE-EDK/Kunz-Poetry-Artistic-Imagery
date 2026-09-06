@@ -18,13 +18,15 @@ Older takes live in per-folder `archive/` (gitignored). Same-hash Windows copies
 | Spoken | `transcript.spoken.txt` — English then Arabic |
 | Timing lock | `10-red-shift-timing-LOCKED.md` |
 | Geography | `GEO-CORRECTED.md` (Hit / Heet) |
-| Full film | `video/10-red-shift-FULL-1080p.mp4` — **188.29 s**, 1920×1080 |
+| Full film | `video/10-red-shift-FULL-1080p.mp4` — **188.25 s**, 1920×1080, yuv420p |
+| 720p cut | `video/10-red-shift-FULL-FINAL.mp4` — **188.25 s**, 1280×720 |
 
 ## Picture (video/)
 
 | File | Notes |
 |------|-------|
-| `10-red-shift-FULL-1080p.mp4` | 1080p final, intro xfade 2.5 s → body (188.29 s) |
+| `10-red-shift-FULL-1080p.mp4` | 1080p final, intro xfade 2.5 s → body (188.25 s) |
+| `10-red-shift-FULL-FINAL.mp4` | 720p cut of the same film |
 
 ## Stills (images/)
 
