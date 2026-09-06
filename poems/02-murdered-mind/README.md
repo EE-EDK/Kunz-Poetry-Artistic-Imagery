@@ -36,6 +36,8 @@ Epidemic Sound cues in `audio/epidemic/`:
 - `02-murdered-mind-es-voices-distant-screams.wav`
 
 ## Next
+Hub now serves 720p (`murdered-mind-720.mp4`); 1080p stashed on the hub.
+
 
 Other machine: `git lfs pull`, then GROK.md → Hub publish for
 `video/02-murdered-mind-final.mp4`. Cover/poster:

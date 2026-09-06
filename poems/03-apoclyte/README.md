@@ -33,6 +33,8 @@ Epidemic Sound in `audio/epidemic/`:
 - `03-apoclyte-es-percussion-soft-kick-ending.wav` (2.6 MB)
 
 ## Next
+Hub now serves 720p (`apoclyte-720.mp4`); 1080p stashed on the hub.
+
 
 Hub published 2026-08-31 on kunz-ai-hub. Poster used still 01, not the
 12-up preview. New take = new web filename (`GROK.md` → Hub publish).

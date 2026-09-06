@@ -34,3 +34,7 @@ git clone git@github.com:EE-EDK/Kunz-Poetry-Artistic-Imagery.git
 
 Use `video/01-a-tree-through-the-forest-final.mp4` plus the SRT for on-screen
 text in kunzhub. Do not rebuild from FULL/v3/v4 — those takes are gone.
+
+## Next
+
+Hub now serves 720p (`a-tree-through-the-forest-720.mp4`); 1080p stashed on the hub.

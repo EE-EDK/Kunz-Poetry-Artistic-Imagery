@@ -19,6 +19,8 @@ No stills folder in git. Hub poster is the opening frame of the 1080p cut
 (eclipse over a mountain lake).
 
 ## Next
+Hub now serves the 720p web copy (`shadowshine-720.mp4`); 1080p stashed on the hub.
+
 
 Hub published 2026-09-03 on kunz-ai-hub
 (`08-shadowshine-final.mp4`, 1080p). New take = new web filename

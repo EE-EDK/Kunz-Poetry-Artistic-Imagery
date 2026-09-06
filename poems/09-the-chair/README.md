@@ -38,6 +38,8 @@ Mix FINAL **122.68 s** = dry voice. Picture locked to mix. Last line dry.
 - Duration final **≈122.65 s**
 
 ## Next
+Hub now serves the 720p working cut (`the-chair-720.mp4`); 1080p stashed on the hub.
+
 
 Hub published 2026-09-04 on kunz-ai-hub
 (`09-the-chair-final.mp4`, 1080p). Poster is still 01

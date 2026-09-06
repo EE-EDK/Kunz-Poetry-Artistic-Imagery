@@ -22,6 +22,8 @@ Dry voice FINAL **175.5 s** (`eleven_v3`). Mix FINAL **157.0 s** (voice + music)
 Ten Epidemic Sound stems in `audio/sfx/` (capped at 30 s). See `audio/sfx/CUE_MAP.md`.
 
 ## Next
+Hub now serves 720p (`the-garden-of-perspective-720.mp4`); 1080p stashed on the hub.
+
 
 Hub published 2026-09-02 on kunz-ai-hub
 (`05-the-garden-of-perspective-final.mp4`). Poster is still 01

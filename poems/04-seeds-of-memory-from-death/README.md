@@ -22,6 +22,8 @@ Ten trimmed Epidemic Sound stems in `audio/sfx/` (cue length + 5 s).
 See `audio/sfx/CUE_MAP.md`. Mix windows there were sketched for ~1:04; scale them to this 60 s take.
 
 ## Next
+Hub now serves 720p (`seeds-of-memory-from-death-720.mp4`); 1080p stashed on the hub.
+
 
 Hub published 2026-08-31 on kunz-ai-hub (`04-seeds-of-memory-from-death-final.mp4`).
 Poster is a lyric-free frame from the cut (open window onto autumn vines).

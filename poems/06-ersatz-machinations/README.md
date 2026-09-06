@@ -22,6 +22,8 @@ Dry voice FINAL **95.24 s**. Mix FINAL **95.24 s**. Timing rebuilt on the mix: f
 Ten Epidemic Sound stems in `audio/sfx/` (cue + 5 s, HUM 98 s). See `audio/sfx/CUE_MAP.md`. Extra robot-on is stacked at **0:00** with the title; say if it belongs in the 0:93 hole instead.
 
 ## Next
+Hub now serves the 720p web copy (`ersatz-machinations-720.mp4`); 1080p stashed on the hub.
+
 
 Hub published 2026-09-02 on kunz-ai-hub
 (`06-ersatz-machinations-final.mp4`, 1080p). Poster is still 07

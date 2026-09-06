@@ -18,6 +18,8 @@
 | SFX map | `audio/sfx/CUE_MAP.md` |
 
 ## Next
+Hub now serves the 720p web copy (`stalked-in-realms-720.mp4`); 1080p stashed on the hub.
+
 
 Hub published 2026-09-03 on kunz-ai-hub
 (`07-stalked-in-realms-final.mp4`, 1080p). Poster is still 01
