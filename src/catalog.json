@@ -95,8 +95,8 @@
         "epidemic": false,
         "mix": true,
         "timing": true,
-        "images": false,
-        "video": false
+        "images": true,
+        "video": true
       }
     },
     {
@@ -107,12 +107,12 @@
       "status": {
         "elevenlabs": true,
         "music": false,
-        "sfx": false,
+        "sfx": true,
         "epidemic": false,
-        "mix": false,
-        "timing": false,
-        "images": false,
-        "video": false
+        "mix": true,
+        "timing": true,
+        "images": true,
+        "video": true
       }
     },
     {
@@ -121,14 +121,14 @@
       "slug": "shadowshine",
       "folder": "08-shadowshine",
       "status": {
-        "elevenlabs": false,
+        "elevenlabs": true,
         "music": false,
         "sfx": false,
         "epidemic": false,
-        "mix": false,
-        "timing": false,
+        "mix": true,
+        "timing": true,
         "images": false,
-        "video": false
+        "video": true
       }
     },
     {
@@ -137,14 +137,14 @@
       "slug": "the-chair",
       "folder": "09-the-chair",
       "status": {
-        "elevenlabs": false,
+        "elevenlabs": true,
         "music": false,
-        "sfx": false,
+        "sfx": true,
         "epidemic": false,
-        "mix": false,
-        "timing": false,
-        "images": false,
-        "video": false
+        "mix": true,
+        "timing": true,
+        "images": true,
+        "video": true
       }
     },
     {
@@ -153,14 +153,14 @@
       "slug": "red-shift",
       "folder": "10-red-shift",
       "status": {
-        "elevenlabs": false,
-        "music": false,
-        "sfx": false,
+        "elevenlabs": true,
+        "music": true,
+        "sfx": true,
         "epidemic": false,
-        "mix": false,
-        "timing": false,
-        "images": false,
-        "video": false
+        "mix": true,
+        "timing": true,
+        "images": true,
+        "video": true
       }
     },
     {
@@ -169,12 +169,12 @@
       "slug": "the-forest-disease",
       "folder": "11-the-forest-disease",
       "status": {
-        "elevenlabs": false,
+        "elevenlabs": true,
         "music": false,
         "sfx": false,
         "epidemic": false,
         "mix": false,
-        "timing": false,
+        "timing": true,
         "images": false,
         "video": false
       }
