@@ -1,0 +1,323 @@
+{
+  "recorded_at": "2026-09-08",
+  "source": "user @references",
+  "videos": {
+    "e6876f29-7e70-4a4a-8e57-4eb26306f7b9": {
+      "dur": 10.0,
+      "role": "Hover A / moss arch glide",
+      "map_shots": [
+        "3 Hover A",
+        "maybe 8 tail"
+      ],
+      "summary": "moss-draped arching branches over dark water, far gold light",
+      "path": "imagine_videos/e6876f29-7e70-4a4a-8e57-4eb26306f7b9.mp4"
+    },
+    "9905dc94-a3b4-4a88-966b-d4987ba01a16": {
+      "dur": 15.0,
+      "role": "SHOT 5B BEAR — gold pool overhead hold",
+      "map_shots": [
+        "5 Hover B bear portion ~0:52–1:02"
+      ],
+      "summary": "High floating overhead hold on black bear in golden god-ray pool, slow drift, water ring",
+      "path": "imagine_videos/9905dc94-a3b4-4a88-966b-d4987ba01a16.mp4",
+      "user_confirmed": true,
+      "note": "User confirmed as bear; overhead long-shot — bear small in frame"
+    },
+    "9553b496-967e-4c9b-a698-4da264713445": {
+      "dur": 10.0,
+      "role": "SHOT 4 S2 rise / tunnel exit",
+      "map_shots": [
+        "4 S2 fires"
+      ],
+      "summary": "rise out of moss tunnel into warmer golden light",
+      "path": "imagine_videos/9553b496-967e-4c9b-a698-4da264713445.mp4"
+    },
+    "a6b390f9-1e43-41f0-9a3b-30e16d4411b4": {
+      "dur": 10.0,
+      "role": "LOG + GOD-RAYS — Shot 4 end / Shot 13 S5 dawn",
+      "map_shots": [
+        "4 S2 fires 0:40–0:48 (log rays)",
+        "13 S5 dawn 2:10–2:19"
+      ],
+      "summary": "Fallen log god-rays on water / rise — map still 0d109f6d family",
+      "path": "imagine_videos/a6b390f9-1e43-41f0-9a3b-30e16d4411b4.mp4",
+      "user_confirmed": true,
+      "time_adjust": true
+    },
+    "d87bae70-4989-4ad2-b302-61314359aa6f": {
+      "dur": 10.0,
+      "role": "SHOT 9 S4a approach bridge",
+      "map_shots": [
+        "9 S4a inscribed"
+      ],
+      "summary": "push through fir needles toward arched wooden bridge + falls",
+      "path": "imagine_videos/d87bae70-4989-4ad2-b302-61314359aa6f.mp4"
+    },
+    "296e7e40-344a-4da7-8051-a492476125c0": {
+      "dur": 15.0,
+      "role": "SHOT 10–11 Hover D / S4b under arch",
+      "map_shots": [
+        "10 Hover D",
+        "11 S4b"
+      ],
+      "summary": "under arched bridge, multi-tier waterfalls, look down tiers",
+      "path": "imagine_videos/296e7e40-344a-4da7-8051-a492476125c0.mp4"
+    },
+    "9b1e51d7-af70-4681-ad70-41f5dec9b467": {
+      "dur": 15.0,
+      "role": "SHOT 3 Hover A / SHOT 12 Hole (tunnel)",
+      "map_shots": [
+        "3 Hover A",
+        "12 Hole",
+        "2 S1 end"
+      ],
+      "summary": "dark arched moss tunnel over black water, push toward far gold",
+      "path": "imagine_videos/9b1e51d7-af70-4681-ad70-41f5dec9b467.mp4"
+    },
+    "ad8a691d-00ba-4f97-ba0c-7649098a36fd": {
+      "dur": 10.0,
+      "role": "SHOT 5A RAVEN — pond circle, raven crosses",
+      "map_shots": [
+        "5 Hover B (raven portion 0:48–~0:52)"
+      ],
+      "summary": "Slow circular float over mid-forest pond with glowing ferns and moss, black raven crossing once",
+      "path": "imagine_videos/ad8a691d-00ba-4f97-ba0c-7649098a36fd.mp4",
+      "user_confirmed": true
+    },
+    "466e437e-dcd7-4972-9e90-f80e6243007f": {
+      "dur": 10.0,
+      "role": "SHOT 1 Enter START 0:00 — wide aerial PNW canopy/fog",
+      "map_shots": [
+        "1 Enter 0:00–0:18 (lead)"
+      ],
+      "summary": "Photoreal aerial elevated PNW rainforest, slow float forward/down through canopy fog",
+      "path": "imagine_videos/466e437e-dcd7-4972-9e90-f80e6243007f.mp4",
+      "user_confirmed": true,
+      "time_adjust": true
+    },
+    "b044f7bf-0c89-4dff-b157-fea201609eee": {
+      "dur": 10.0,
+      "role": "SHOT 1 Enter END / mid — elevated canopy drift",
+      "map_shots": [
+        "1 Enter 0:00–0:18 (middle/end)"
+      ],
+      "summary": "Elevated forward through dense conifer canopy and fog layers",
+      "path": "imagine_videos/b044f7bf-0c89-4dff-b157-fea201609eee.mp4",
+      "user_confirmed": true,
+      "time_adjust": true
+    },
+    "4afa1909-e97b-4ab3-b800-e42013121860": {
+      "dur": 10.0,
+      "role": "SHOT 2 S1 0:18–0:27 — misty river valley / descent family",
+      "map_shots": [
+        "2 S1 body 0:18–0:27"
+      ],
+      "summary": "Elevated float along misty river valley, thick fog, dense spruce/fir",
+      "path": "imagine_videos/4afa1909-e97b-4ab3-b800-e42013121860.mp4",
+      "user_confirmed": true,
+      "time_adjust": true
+    },
+    "e3c9b0d8-dcf6-417d-b456-e355d358805f": {
+      "dur": 10.0,
+      "role": "SHOT 7 Hover C — river + spirit reflection ONLY",
+      "map_shots": [
+        "7 Hover C shadow 1:05–1:15",
+        "8 S3b lead 1:15– (can extend into wind lift)"
+      ],
+      "summary": "River god-rays, figure only as reflection, no body on bank — map still 34019923",
+      "path": "imagine_videos/e3c9b0d8-dcf6-417d-b456-e355d358805f.mp4",
+      "user_confirmed": true,
+      "time_adjust": true
+    },
+    "b9a7b2d1-31e1-4aaf-b457-5d8f61437966": {
+      "dur": 15.0,
+      "role": "SHOT 8b — high canopy after gust (27a2bbc5)",
+      "map_shots": [
+        "8 S3b wind+hold 8b"
+      ],
+      "still": "27a2bbc5",
+      "path": "imagine_videos/b9a7b2d1-31e1-4aaf-b457-5d8f61437966.mp4",
+      "generated": true,
+      "user_confirmed": false
+    },
+    "01e94881-7d4d-4aca-8e4c-3217dce04285": {
+      "dur": 15.0,
+      "role": "SHOT 8c — wide mist long silver float (7ebae00a)",
+      "map_shots": [
+        "8 S3b wind+hold 8c"
+      ],
+      "still": "7ebae00a",
+      "path": "imagine_videos/01e94881-7d4d-4aca-8e4c-3217dce04285.mp4",
+      "generated": true,
+      "user_confirmed": false
+    },
+    "471e0f61-fa69-4760-b6ef-62e3b0446132": {
+      "dur": 15.0,
+      "role": "SHOT 14 — Dawn hold (27a2bbc5)",
+      "map_shots": [
+        "14 Dawn hold 2:19–2:32"
+      ],
+      "still": "27a2bbc5",
+      "path": "imagine_videos/471e0f61-fa69-4760-b6ef-62e3b0446132.mp4",
+      "generated": true,
+      "user_confirmed": false
+    },
+    "68afeb32-f838-4825-815b-997a43941598": {
+      "dur": 10.0,
+      "role": "SHOT 15 — S6a seen closer (50d1dd62)",
+      "map_shots": [
+        "15 S6a seen 2:32–2:36"
+      ],
+      "still": "50d1dd62",
+      "path": "imagine_videos/68afeb32-f838-4825-815b-997a43941598.mp4",
+      "generated": true,
+      "user_confirmed": false,
+      "status": "REJECTED",
+      "reject_reason": "low quality textures, trees vanish, cartoon gold"
+    },
+    "ca4f9102-9e3c-49ef-8f69-7ba956959857": {
+      "dur": 10.0,
+      "role": "SHOT 16 — Hover E forest looks back (27a2bbc5)",
+      "map_shots": [
+        "16 Hover E 2:36–2:44"
+      ],
+      "still": "27a2bbc5",
+      "path": "imagine_videos/ca4f9102-9e3c-49ef-8f69-7ba956959857.mp4",
+      "generated": true,
+      "user_confirmed": false
+    },
+    "fa9098a1-e6ef-474a-9f85-3384530033a5": {
+      "dur": 10.0,
+      "role": "SHOT 17 — S6b stare (7ebae00a)",
+      "map_shots": [
+        "17 S6b stare 2:44–2:48"
+      ],
+      "still": "7ebae00a",
+      "path": "imagine_videos/fa9098a1-e6ef-474a-9f85-3384530033a5.mp4",
+      "generated": true,
+      "user_confirmed": false
+    },
+    "6cb1d782-1d54-48f5-b1ff-25014c7715ce": {
+      "dur": 10.0,
+      "role": "SHOT 18 — Stare out (7ebae00a)",
+      "map_shots": [
+        "18 Stare out 2:48–2:57"
+      ],
+      "still": "7ebae00a",
+      "path": "imagine_videos/6cb1d782-1d54-48f5-b1ff-25014c7715ce.mp4",
+      "generated": true,
+      "user_confirmed": false
+    },
+    "2db6d767-5c13-41c8-8ea2-6bd999a10cd5": {
+      "dur": 10.0,
+      "role": "SHOT 15 — S6a seen 2:32–2:36 LOCKED photoreal",
+      "map_shots": [
+        "15 S6a seen 2:32–2:36"
+      ],
+      "still": "50d1dd62 + real PNW refs 10d24a71/39087e19/447641cf",
+      "path": "imagine_videos/2db6d767-5c13-41c8-8ea2-6bd999a10cd5.mp4",
+      "generated": true,
+      "replaces": "68afeb32-f838-4825-815b-997a43941598",
+      "user_confirmed": true,
+      "status": "LOCKED"
+    },
+    "75e7abd9-ee04-4071-ab98-b30d7f6ba385": {
+      "dur": 15.0,
+      "role": "S1 descent aisle→creek 0:15–0:30 (dip on rot)",
+      "still": "596d6615-6235-4c82-a67d-3190b773bf1f",
+      "map_shots": [
+        "2 S1 body / descent 0:15–0:30"
+      ],
+      "generated": true,
+      "user_confirmed": false,
+      "path": "imagine_videos/75e7abd9-ee04-4071-ab98-b30d7f6ba385.mp4"
+    },
+    "b1089f90-8903-4763-8bab-5ac6e7ebb401": {
+      "dur": 15.0,
+      "role": "Dawn gold high drift 2:15–2:30",
+      "still": "d1d5df95-6494-4acd-b72e-fa26e8cdf509",
+      "map_shots": [
+        "13–14 dawn gold 2:15–2:30"
+      ],
+      "generated": true,
+      "user_confirmed": false,
+      "path": "imagine_videos/b1089f90-8903-4763-8bab-5ac6e7ebb401.mp4"
+    },
+    "b395fb45-fee9-4171-819f-225b1cabab76": {
+      "dur": 15.0,
+      "role": "Stare 2:45–2:57 lock + darken 2% (gen 15s → trim 12s)",
+      "still": "248d733a-e7c1-496a-b5c1-a83a49ac16b2",
+      "map_shots": [
+        "17–18 stare 2:45–2:57"
+      ],
+      "generated": true,
+      "user_confirmed": false,
+      "note": "engine max 15s; trim to 12s in assembly",
+      "path": "imagine_videos/b395fb45-fee9-4171-819f-225b1cabab76.mp4"
+    },
+    "2287fe0b-c9d0-4c00-91fa-028369bfe2e7": {
+      "dur": 10.0,
+      "role": "Clean river 1:05–1:15 water only NO body reflection",
+      "still": "719cad19-bf38-4ad9-b644-9f2e6f62e26f",
+      "map_shots": [
+        "7 Hover C 1:05–1:15 clean"
+      ],
+      "generated": true,
+      "user_confirmed": false,
+      "path": "imagine_videos/2287fe0b-c9d0-4c00-91fa-028369bfe2e7.mp4",
+      "status": "REJECTED",
+      "reject_reason": "hallucination: vanishing trees, river from nowhere (still was canopy not river)"
+    },
+    "114fd9fb-410b-4945-a1a2-fd4e042bf27d": {
+      "dur": 10.0,
+      "role": "Clean river/creek 1:05–1:15 — aisle drift water only NO body",
+      "still": "596d6615-6235-4c82-a67d-3190b773bf1f",
+      "map_shots": [
+        "7 Hover C clean river 1:05–1:15"
+      ],
+      "generated": true,
+      "replaces": "2287fe0b-c9d0-4c00-91fa-028369bfe2e7",
+      "user_confirmed": false,
+      "path": "imagine_videos/114fd9fb-410b-4945-a1a2-fd4e042bf27d.mp4",
+      "note": "from creek still not canopy still; solid trees"
+    },
+    "e62e0491-3586-4639-89c6-8ba16a7e2156": {
+      "dur": 10.0,
+      "role": "ALT clean river text-pipeline (backup)",
+      "status": "ALT",
+      "path": "imagine_videos/e62e0491-3586-4639-89c6-8ba16a7e2156.mp4"
+    }
+  },
+  "enter_s1_plan": {
+    "block": "0:00–0:27 (Shot 1 Enter + Shot 2 S1)",
+    "raw_clips": [
+      {
+        "id": "466e437e",
+        "raw": 10.0,
+        "use": "Shot1 lead"
+      },
+      {
+        "id": "b044f7bf",
+        "raw": 10.0,
+        "use": "Shot1 mid/end"
+      },
+      {
+        "id": "4afa1909",
+        "raw": 10.0,
+        "use": "Shot2 S1 0:18–0:27"
+      }
+    ],
+    "raw_sum": 30.0,
+    "film_target": 27.0,
+    "xfade_note": "2 soft xfades @ ~1.5s each: 30 − 2×1.5 = 27.0 exact for 0:00–0:27",
+    "alt": "Or: clip1+clip2 cover 0–18 (trim/xfade), clip3 cover 18–27 (trim 10→9 or soft into Hover A)"
+  },
+  "coverage": {
+    "locked": "all 20 shots cut from video/videoset-keep",
+    "now_filled": "shot 14 elk bridge (grok-c7714015) replaces the second dark-water return",
+    "open": "none",
+    "next": "DONE 2026-09-08 - video/11-the-forest-disease-final.mp4, 177.00 s, MIX-v2 + lyrics.ass burned",
+    "manifest": "SHOTS-MANIFEST.md is the governing shot table; this file is a historical UUID record"
+  },
+  "shot15_locked": "2db6d767-5c13-41c8-8ea2-6bd999a10cd5"
+}

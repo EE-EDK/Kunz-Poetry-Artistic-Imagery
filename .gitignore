@@ -28,3 +28,21 @@ desktop.ini
 # Third-party library masters stay on disk (Epidemic Sound license:
 # use in a mix, do not republish the raw cue as a download).
 **/audio/epidemic/
+
+# Render intermediates and staged inputs. Derived from video/videoset-keep by
+# scripts/assemble_beats.py; rebuildable, and far too large for the repo.
+**/gen/
+**/clips/
+**/out/
+**/shots/
+**/shots_beats/
+**/shots_unique/
+**/batches/
+**/batches_beats/
+**/batches_unique/
+**/video/videoset-keep/
+*.zip
+
+# Numbered working cuts. Only *-final.mp4 is kept.
+**/*-v[0-9].mp4
+**/*-v[0-9][0-9].mp4

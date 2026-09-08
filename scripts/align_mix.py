@@ -2,6 +2,7 @@
 
 Usage:
   python scripts/align_mix.py 07
+  python scripts/align_mix.py 11 poems/11-the-forest-disease/audio/mix/11-the-forest-disease-MIX-v2.mp3
 """
 
 from __future__ import annotations
@@ -60,10 +61,12 @@ def stt_preview(client: ElevenLabs, audio_path: Path) -> None:
         print(f"  last   {w.get('start'):6.3f}-{w.get('end'):6.3f}  {w.get('text')!r}")
 
 
-def align_mix(client: ElevenLabs, poem: dict) -> None:
-    audio_path = mix_file(poem)
+def align_mix(client: ElevenLabs, poem: dict, audio_override: Path | None = None) -> None:
+    audio_path = audio_override if audio_override is not None else mix_file(poem)
     if audio_path is None:
         raise SystemExit(f"No mix-FINAL for {poem['folder']}")
+    if not audio_path.is_file():
+        raise SystemExit(f"Audio file not found: {audio_path}")
     base = paths.POEMS / poem["folder"]
     spoken_path = base / "transcript.spoken.txt"
     transcript_path = spoken_path if spoken_path.exists() else base / "transcript.txt"
@@ -127,12 +130,13 @@ def main() -> int:
         print("Missing ELEVENLABS_API_KEY in .env", file=sys.stderr)
         return 1
     if len(sys.argv) < 2:
-        print("Usage: python scripts/align_mix.py NN", file=sys.stderr)
+        print("Usage: python scripts/align_mix.py NN [audio-file]", file=sys.stderr)
         return 1
     catalog = load_catalog()
     poem = find_poem(catalog, sys.argv[1])
+    audio_override = Path(sys.argv[2]) if len(sys.argv) > 2 else None
     client = ElevenLabs(api_key=api_key)
-    align_mix(client, poem)
+    align_mix(client, poem, audio_override)
     return 0
 
 

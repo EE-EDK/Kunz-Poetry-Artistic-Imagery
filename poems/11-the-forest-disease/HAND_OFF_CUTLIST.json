@@ -1,0 +1,404 @@
+{
+  "title": "The Forest Disease",
+  "picture_lock_s": 177.0,
+  "fps": 24,
+  "size": [
+    1280,
+    720
+  ],
+  "xfade_s": [
+    1.8,
+    2.4
+  ],
+  "audio": "11-the-forest-disease-MIX-v2.wav",
+  "ass": "lyrics.ass",
+  "global_prompt": "Pacific Northwest temperate rainforest, Douglas fir hemlock cedar, moss, fern understory, hyper-real documentary, soft fantasy bioluminescent moss only, floating camera, slow drift, no people, no text, solid stable trees no morphing",
+  "shots": [
+    {
+      "n": 1,
+      "name": "Enter",
+      "in": 0.0,
+      "out": 18.0,
+      "dur": 18.0,
+      "stills": "7ebae00a\u219250d1dd62",
+      "clips": [
+        "466e437e-dcd7-4972-9e90-f80e6243007f",
+        "b044f7bf-0c89-4dff-b157-fea201609eee"
+      ],
+      "role": "Enter wide mist drift"
+    },
+    {
+      "n": 2,
+      "name": "S1 body",
+      "in": 18.0,
+      "out": 27.0,
+      "dur": 9.0,
+      "stills": "27a2bbc5\u2192266fa333",
+      "clips": [
+        "4afa1909-e97b-4ab3-b800-e42013121860",
+        "75e7abd9-ee04-4071-ab98-b30d7f6ba385"
+      ],
+      "role": "S1 descent; leaf tick on 'rot' ~0:25"
+    },
+    {
+      "n": 3,
+      "name": "Hover A",
+      "in": 27.0,
+      "out": 40.0,
+      "dur": 13.0,
+      "stills": "266fa333\u21924665bd7a",
+      "clips": [
+        "e6876f29-7e70-4a4a-8e57-4eb26306f7b9",
+        "9b1e51d7-af70-4681-ad70-41f5dec9b467"
+      ],
+      "role": "Moss tunnel glide"
+    },
+    {
+      "n": 4,
+      "name": "S2 fires",
+      "in": 40.0,
+      "out": 48.0,
+      "dur": 8.0,
+      "stills": "e94b302e\u21920d109f6d",
+      "clips": [
+        "9553b496-967e-4c9b-a698-4da264713445",
+        "a6b390f9-1e43-41f0-9a3b-30e16d4411b4"
+      ],
+      "role": "Rise vault \u2192 log god-rays"
+    },
+    {
+      "n": 5,
+      "name": "Hover B raven+bear",
+      "in": 48.0,
+      "out": 62.0,
+      "dur": 14.0,
+      "stills": "8dd34a3e\u2192981ffe5b",
+      "clips": [
+        "ad8a691d-00ba-4f97-ba0c-7649098a36fd",
+        "9905dc94-a3b4-4a88-966b-d4987ba01a16"
+      ],
+      "role": "Raven pond THEN bear gold pool hold"
+    },
+    {
+      "n": 6,
+      "name": "S3a lie",
+      "in": 62.0,
+      "out": 65.0,
+      "dur": 3.0,
+      "stills": "0d109f6d crop",
+      "clips": [
+        "a6b390f9-1e43-41f0-9a3b-30e16d4411b4"
+      ],
+      "role": "Almost still branch settle on 'lie'"
+    },
+    {
+      "n": 7,
+      "name": "Hover C river",
+      "in": 65.0,
+      "out": 75.0,
+      "dur": 10.0,
+      "stills": "34019923 / clean creek",
+      "clips": [
+        "114fd9fb-410b-4945-a1a2-fd4e042bf27d",
+        "e3c9b0d8-dcf6-417d-b456-e355d358805f",
+        "e62e0491-3586-4639-89c6-8ba16a7e2156"
+      ],
+      "role": "River/creek ONLY \u2014 no body reflection (use clean regen)"
+    },
+    {
+      "n": 8,
+      "name": "S3b wind+hold",
+      "in": 75.0,
+      "out": 96.0,
+      "dur": 21.0,
+      "stills": "34019923\u21927ebae00a",
+      "clips": [
+        "b9a7b2d1-31e1-4aaf-b457-5d8f61437966",
+        "01e94881-7d4d-4aca-8e4c-3217dce04285"
+      ],
+      "role": "Lift+gust then long high canopy float"
+    },
+    {
+      "n": 9,
+      "name": "S4a bridge",
+      "in": 96.0,
+      "out": 100.0,
+      "dur": 4.0,
+      "stills": "ae0f7005",
+      "clips": [
+        "d87bae70-4989-4ad2-b302-61314359aa6f"
+      ],
+      "role": "Push to bridge; stick-snap"
+    },
+    {
+      "n": 10,
+      "name": "Hover D cathedral",
+      "in": 100.0,
+      "out": 113.0,
+      "dur": 13.0,
+      "stills": "ae0f7005\u2192d07dbd83",
+      "clips": [
+        "296e7e40-344a-4da7-8051-a492476125c0"
+      ],
+      "role": "Under arch cathedral tiers"
+    },
+    {
+      "n": 11,
+      "name": "S4b silence",
+      "in": 113.0,
+      "out": 118.0,
+      "dur": 5.0,
+      "stills": "d07dbd83 hold",
+      "clips": [
+        "296e7e40-344a-4da7-8051-a492476125c0"
+      ],
+      "role": "Almost stop under arch"
+    },
+    {
+      "n": 12,
+      "name": "Hole",
+      "in": 118.0,
+      "out": 130.0,
+      "dur": 12.0,
+      "stills": "266fa333 dark",
+      "clips": [
+        "9b1e51d7-af70-4681-ad70-41f5dec9b467"
+      ],
+      "role": "Dark mist lock 12s"
+    },
+    {
+      "n": 13,
+      "name": "S5 dawn",
+      "in": 130.0,
+      "out": 139.0,
+      "dur": 9.0,
+      "stills": "0d109f6d\u219227a2bbc5",
+      "clips": [
+        "a6b390f9-1e43-41f0-9a3b-30e16d4411b4",
+        "b1089f90-8903-4763-8bab-5ac6e7ebb401"
+      ],
+      "role": "Dawn rise rays"
+    },
+    {
+      "n": 14,
+      "name": "Dawn hold",
+      "in": 139.0,
+      "out": 152.0,
+      "dur": 13.0,
+      "stills": "27a2bbc5 / 7ebae00a",
+      "clips": [
+        "471e0f61-fa69-4760-b6ef-62e3b0446132",
+        "b1089f90-8903-4763-8bab-5ac6e7ebb401"
+      ],
+      "role": "High slow endless"
+    },
+    {
+      "n": 15,
+      "name": "S6a seen",
+      "in": 152.0,
+      "out": 156.0,
+      "dur": 4.0,
+      "stills": "50d1dd62",
+      "clips": [
+        "2db6d767-5c13-41c8-8ea2-6bd999a10cd5"
+      ],
+      "role": "Almost none (LOCKED photoreal 2db6d767)"
+    },
+    {
+      "n": 16,
+      "name": "Hover E",
+      "in": 156.0,
+      "out": 164.0,
+      "dur": 8.0,
+      "stills": "27a2bbc5",
+      "clips": [
+        "ca4f9102-9e3c-49ef-8f69-7ba956959857"
+      ],
+      "role": "Drift forest looks back"
+    },
+    {
+      "n": 17,
+      "name": "S6b stare",
+      "in": 164.0,
+      "out": 168.0,
+      "dur": 4.0,
+      "stills": "7ebae00a",
+      "clips": [
+        "fa9098a1-e6ef-474a-9f85-3384530033a5",
+        "b395fb45-fee9-4171-819f-225b1cabab76"
+      ],
+      "role": "Near stop stare"
+    },
+    {
+      "n": 18,
+      "name": "Stare out",
+      "in": 168.0,
+      "out": 177.0,
+      "dur": 9.0,
+      "stills": "7ebae00a widest",
+      "clips": [
+        "6cb1d782-1d54-48f5-b1ff-25014c7715ce",
+        "b395fb45-fee9-4171-819f-225b1cabab76"
+      ],
+      "role": "Hold + slight darken; end 2:57"
+    }
+  ],
+  "catalog": [
+    {
+      "uuid": "466e437e-dcd7-4972-9e90-f80e6243007f",
+      "dur": "10",
+      "role": "Enter lead",
+      "status": "user"
+    },
+    {
+      "uuid": "b044f7bf-0c89-4dff-b157-fea201609eee",
+      "dur": "10",
+      "role": "Enter mid/end",
+      "status": "user"
+    },
+    {
+      "uuid": "4afa1909-e97b-4ab3-b800-e42013121860",
+      "dur": "10",
+      "role": "S1 0:18\u20130:27",
+      "status": "user"
+    },
+    {
+      "uuid": "75e7abd9-ee04-4071-ab98-b30d7f6ba385",
+      "dur": "15",
+      "role": "S1 descent aisle\u2192creek (new)",
+      "status": "gen"
+    },
+    {
+      "uuid": "e6876f29-7e70-4a4a-8e57-4eb26306f7b9",
+      "dur": "10",
+      "role": "Hover A moss arch",
+      "status": "user"
+    },
+    {
+      "uuid": "9b1e51d7-af70-4681-ad70-41f5dec9b467",
+      "dur": "15",
+      "role": "Tunnel / Hole",
+      "status": "user"
+    },
+    {
+      "uuid": "9553b496-967e-4c9b-a698-4da264713445",
+      "dur": "10",
+      "role": "S2 rise",
+      "status": "user"
+    },
+    {
+      "uuid": "a6b390f9-1e43-41f0-9a3b-30e16d4411b4",
+      "dur": "10",
+      "role": "LOG GOD-RAYS (4/6/13)",
+      "status": "user\u2713"
+    },
+    {
+      "uuid": "ad8a691d-00ba-4f97-ba0c-7649098a36fd",
+      "dur": "10",
+      "role": "RAVEN pond",
+      "status": "user\u2713"
+    },
+    {
+      "uuid": "9905dc94-a3b4-4a88-966b-d4987ba01a16",
+      "dur": "15",
+      "role": "BEAR gold pool",
+      "status": "user\u2713"
+    },
+    {
+      "uuid": "e3c9b0d8-dcf6-417d-b456-e355d358805f",
+      "dur": "10",
+      "role": "River + spirit reflection",
+      "status": "user"
+    },
+    {
+      "uuid": "114fd9fb-410b-4945-a1a2-fd4e042bf27d",
+      "dur": "10",
+      "role": "Clean creek NO body (regen)",
+      "status": "gen"
+    },
+    {
+      "uuid": "e62e0491-3586-4639-89c6-8ba16a7e2156",
+      "dur": "10",
+      "role": "ALT clean river text-pipe",
+      "status": "alt"
+    },
+    {
+      "uuid": "2287fe0b-c9d0-4c00-91fa-028369bfe2e7",
+      "dur": "10",
+      "role": "REJECTED halluci river",
+      "status": "REJECT"
+    },
+    {
+      "uuid": "b9a7b2d1-31e1-4aaf-b457-5d8f61437966",
+      "dur": "15",
+      "role": "Shot 8b high canopy gust",
+      "status": "gen"
+    },
+    {
+      "uuid": "01e94881-7d4d-4aca-8e4c-3217dce04285",
+      "dur": "15",
+      "role": "Shot 8c wide mist float",
+      "status": "gen"
+    },
+    {
+      "uuid": "d87bae70-4989-4ad2-b302-61314359aa6f",
+      "dur": "10",
+      "role": "Bridge approach",
+      "status": "user"
+    },
+    {
+      "uuid": "296e7e40-344a-4da7-8051-a492476125c0",
+      "dur": "15",
+      "role": "Under arch 10\u201311",
+      "status": "user"
+    },
+    {
+      "uuid": "471e0f61-fa69-4760-b6ef-62e3b0446132",
+      "dur": "15",
+      "role": "Dawn hold 14",
+      "status": "gen"
+    },
+    {
+      "uuid": "b1089f90-8903-4763-8bab-5ac6e7ebb401",
+      "dur": "15",
+      "role": "Dawn gold 2:15\u20132:30",
+      "status": "gen"
+    },
+    {
+      "uuid": "2db6d767-5c13-41c8-8ea2-6bd999a10cd5",
+      "dur": "10",
+      "role": "Shot 15 LOCKED photoreal",
+      "status": "LOCKED"
+    },
+    {
+      "uuid": "68afeb32-f838-4825-815b-997a43941598",
+      "dur": "10",
+      "role": "REJECTED cartoon gold",
+      "status": "REJECT"
+    },
+    {
+      "uuid": "ca4f9102-9e3c-49ef-8f69-7ba956959857",
+      "dur": "10",
+      "role": "Hover E 16",
+      "status": "gen"
+    },
+    {
+      "uuid": "fa9098a1-e6ef-474a-9f85-3384530033a5",
+      "dur": "10",
+      "role": "S6b stare 17",
+      "status": "gen"
+    },
+    {
+      "uuid": "b395fb45-fee9-4171-819f-225b1cabab76",
+      "dur": "15",
+      "role": "Stare 2:45\u20132:57 (trim 12s)",
+      "status": "gen"
+    },
+    {
+      "uuid": "6cb1d782-1d54-48f5-b1ff-25014c7715ce",
+      "dur": "10",
+      "role": "Stare out 18",
+      "status": "gen"
+    }
+  ]
+}

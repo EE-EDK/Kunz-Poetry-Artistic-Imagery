@@ -1,6 +1,6 @@
 {
   "collection": "Shadowshining",
-  "subtitle": "Selected poems, 2009\u20132025",
+  "subtitle": "Selected poems, 2009–2025",
   "poem_count": 21,
   "poems": [
     {
@@ -170,13 +170,13 @@
       "folder": "11-the-forest-disease",
       "status": {
         "elevenlabs": true,
-        "music": false,
-        "sfx": false,
-        "epidemic": false,
-        "mix": false,
+        "music": true,
+        "sfx": true,
+        "epidemic": true,
+        "mix": true,
         "timing": true,
-        "images": false,
-        "video": false
+        "images": true,
+        "video": true
       }
     },
     {
