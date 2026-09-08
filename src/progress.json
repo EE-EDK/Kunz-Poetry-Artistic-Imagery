@@ -43,6 +43,12 @@
       "website": false,
       "kunzhub": false,
       "note": "Remanence r3 draft (not gold). Voice FINAL wav 194.7 s. Architecture v3.0."
+    },
+    "11": {
+      "phase": "handoff",
+      "website": false,
+      "kunzhub": "pending-owner",
+      "note": "11-the-forest-disease-final.mp4 in git, 177.00 s, cut to measured mix beats. Shot table: poems/11-the-forest-disease/SHOTS-MANIFEST.md. Hub publish is the owner's step."
     }
   }
 }

@@ -1,6 +1,6 @@
 # Hub publish — twenty-five films, one showing
 
-This repo is **25 independent poem-films**. The public page is
+This repo is **21 independent poem-films**. The public page is
 https://kunz-ai-hub.tailb1d0b7.ts.net/p/shadowshining-selected-poems/
 
 When a `*-final.mp4` is ready, publish it onto kunzhub (do not leave it

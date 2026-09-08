@@ -15,7 +15,7 @@ The public showing is
 https://kunz-ai-hub.tailb1d0b7.ts.net/p/shadowshining-selected-poems/ .
 
 Active poem: **06 Ersatz Machinations** (`src/progress.json`).
-Poems **01–04** have `*-final.mp4` in git; hub publish is on the other machine.
+Poems **01–11** have `*-final.mp4` in git (11 of 21); hub publish is the owner's step.
 
 Collection order (21):
 
