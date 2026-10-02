@@ -46,3 +46,8 @@ desktop.ini
 # Numbered working cuts. Only *-final.mp4 is kept.
 **/*-v[0-9].mp4
 **/*-v[0-9][0-9].mp4
+
+# Stop the bleed: new large media is not committed; big binaries travel via the Syncthing Sync-Transfer folder. Already-tracked files stay tracked.
+*.wav
+*.mp4
+*.mov
